@@ -1,0 +1,890 @@
+name,id,description,image
+Vision (WandaVision),WV2,"High Iq, High-Tech, Genius, Respectful, Devoted, Love-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/WV/2.jpg
+Wanda Maximoff (WandaVision),WV1,"Main Character, Beautiful, Love-Focused, Family-First, 🧙, Important",https://openpsychometrics.org/tests/characters/test-resources/pics/WV/1.jpg
+Agatha Harkness (WandaVision),WV3,"Two-Faced, 🧙, Purple, Mischievous, Rebellious, Competitive, 😈",https://openpsychometrics.org/tests/characters/test-resources/pics/WV/3.jpg
+Scar (The Lion King),LK5,"Vengeful, Traitorous, Competitive, Bitter, Villainous, Cruel",https://openpsychometrics.org/tests/characters/test-resources/pics/LK/5.jpg
+Timon (The Lion King),LK3,"Chatty, Expressive, Short, Expressive, Loud, Funny",https://openpsychometrics.org/tests/characters/test-resources/pics/LK/3.jpg
+Mufasa (The Lion King),LK6,"Loyal, Alpha, Heroic, Masculine, Mighty, Self-Disciplined",https://openpsychometrics.org/tests/characters/test-resources/pics/LK/6.jpg
+Nala (The Lion King),LK2,"Beautiful, Loyal, Healthy, Competent, Attractive, 🌟",https://openpsychometrics.org/tests/characters/test-resources/pics/LK/2.jpg
+Pumbaa (The Lion King),LK4,"Loyal, Kind, Good-Humored, Loud, Funny, Warm",https://openpsychometrics.org/tests/characters/test-resources/pics/LK/4.jpg
+Simba (The Lion King),LK1,"Main Character, Important, Adventurous, Heroic, Summer, Kind",https://openpsychometrics.org/tests/characters/test-resources/pics/LK/1.jpg
+Joey Tribbiani (Friends),F4,"Italian, Sexual, Playful, Playful, Extrovert, Social",https://openpsychometrics.org/tests/characters/test-resources/pics/F/4.jpg
+Phoebe Buffay (Friends),F3,"Open To New Experinces, Artistic, 🎨, Spontaneous, Imaginative, Creative",https://openpsychometrics.org/tests/characters/test-resources/pics/F/3.jpg
+Monica Geller (Friends),F2,"Neat, Self-Disciplined, Diligent, On-Time, Competitive, Scheduled",https://openpsychometrics.org/tests/characters/test-resources/pics/F/2.jpg
+Ross Geller (Friends),F6,"Nerd, Bookish, Scientific, Scholarly, 🧠, Intellectual",https://openpsychometrics.org/tests/characters/test-resources/pics/F/6.jpg
+Rachel Green (Friends),F1,"Beautiful, Feminine, Manicured, Stylish, City-Slicker, Attractive",https://openpsychometrics.org/tests/characters/test-resources/pics/F/1.jpg
+Chandler Bing (Friends),F5,"Funny, Sarcastic, Comedic, Skeptical, 😜, Good-Humored",https://openpsychometrics.org/tests/characters/test-resources/pics/F/5.jpg
+Jack Sparrow (Pirates of the Carribean),PC1,"Main Character, Adventurous, Rebellious, Spontaneous, Mischievous, Chaotic",https://openpsychometrics.org/tests/characters/test-resources/pics/PC/1.jpg
+Will Turner (Pirates of the Carribean),PC4,"Love-Focused, 🤺, Beautiful, Blacksmith, Attractive, Active",https://openpsychometrics.org/tests/characters/test-resources/pics/PC/4.jpg
+Elizabeth Swann (Pirates of the Carribean),PC5,"Beautiful, Attractive, Persistent, Motivated, Feminist, Active, Driven",https://openpsychometrics.org/tests/characters/test-resources/pics/PC/5.jpg
+Hector Barbossa (Pirates of the Carribean),PC2,"Bold, Bossy, Worldly, Cocky, Street-Smart, Dominant",https://openpsychometrics.org/tests/characters/test-resources/pics/PC/2.jpg
+Joshamee Gibbs (Pirates of the Carribean),PC3,"Scruffy, First-Mate, Blue-Collar, Rugged, Masculine, Vintage",https://openpsychometrics.org/tests/characters/test-resources/pics/PC/3.jpg
+James Norrington (Pirates of the Carribean),PC6,"Serious, Side Character, Privileged, Scheduled, Manicured, Preppy",https://openpsychometrics.org/tests/characters/test-resources/pics/PC/6.jpg
+April Ludgate (Parks and Recreation),PR6,"Frank, F***-The-Police, Distant, Goth, Mischievous, Rebellious",https://openpsychometrics.org/tests/characters/test-resources/pics/PR/6.jpg
+Dr. John Watson (Sherlock),SL2,"Loyal, Heroic, Devoted, English, Diligent, Kind",https://openpsychometrics.org/tests/characters/test-resources/pics/SL/2.jpg
+Ron Swanson (Parks and Recreation),PR5,"Frank, Masculine, Distant, Private, Wooden, Sturdy",https://openpsychometrics.org/tests/characters/test-resources/pics/PR/5.jpg
+Mycroft Holmes (Sherlock),SL5,"High Iq, Rich, Intellectual, Privileged, Manicured, 🎩",https://openpsychometrics.org/tests/characters/test-resources/pics/SL/5.jpg
+Sherlock Holmes (Sherlock),SL1,"High Iq, Stubborn, Main Character, Perceptive, Skeptical, Genius",https://openpsychometrics.org/tests/characters/test-resources/pics/SL/1.jpg
+Leslie Knope (Parks and Recreation),PR1,"Persistent, Driven, Workaholic, Diligent, Overachiever, Go-Getter",https://openpsychometrics.org/tests/characters/test-resources/pics/PR/1.jpg
+Han Solo (Star Wars),SW3,"F***-The-Police, Street-Smart, Bold, Rebellious, Spontaneous, Playful, Adventurous",https://openpsychometrics.org/tests/characters/test-resources/pics/SW/3.jpg
+Ann Perkins (Parks and Recreation),PR2,"Loyal, Beautiful, 👨‍⚕️, Kind, Attractive, Healthy",https://openpsychometrics.org/tests/characters/test-resources/pics/PR/2.jpg
+Obi-Wan Kenobi (Star Wars),SW5,"Pro, Master, Heroic, Loyal, Mature, Self-Disciplined",https://openpsychometrics.org/tests/characters/test-resources/pics/SW/5.jpg
+Tom Haverford (Parks and Recreation),PR4,"Chatty, Extrovert, Lavish, Exaggerating, Social, Expressive, Dramatic",https://openpsychometrics.org/tests/characters/test-resources/pics/PR/4.jpg
+Princess Leia (Star Wars),SW2,"Heroic, Persistent, Driven, Motivated, Diligent, Devoted",https://openpsychometrics.org/tests/characters/test-resources/pics/SW/2.jpg
+Darth Vader (Star Wars),SW4,"Authoritarian, Serious, Ferocious, Strict, Bossy, Angry",https://openpsychometrics.org/tests/characters/test-resources/pics/SW/4.jpg
+Luke Skywalker (Star Wars),SW1,"Main Character, Loyal, Heroic, Important, Kind, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/SW/1.jpg
+C-3PO (Star Wars),SW6,"Nerd, Asexual, Civilized, Bookish, Intellectual, Cautious",https://openpsychometrics.org/tests/characters/test-resources/pics/SW/6.jpg
+Molly Hooper (Sherlock),SL6,"👨‍⚕️, Nerd, 👩‍🔬, Bookish, Low Self Esteem, Loyal",https://openpsychometrics.org/tests/characters/test-resources/pics/SL/6.jpg
+D.I. Greg Lestrade (Sherlock),SL3,"Not Genocidal, Sheriff, English, Loyal, Gendered, Practical",https://openpsychometrics.org/tests/characters/test-resources/pics/SL/3.jpg
+Mrs. Hudson (Sherlock),SL4,"Loyal, English, Treasure, Queen, Kind, Human",https://openpsychometrics.org/tests/characters/test-resources/pics/SL/4.jpg
+Mark Brendanawicz (Parks and Recreation),PR3,"Straight, Gendered, Mundane, Regular, Privileged, Everyman",https://openpsychometrics.org/tests/characters/test-resources/pics/PR/3.jpg
+Romeo Montague (Romeo and Juliet),RJ1,"Emotional, Love-Focused, Emotional, Dramatic, Impulsive, Head@Clouds",https://openpsychometrics.org/tests/characters/test-resources/pics/RJ/1.jpg
+Damian Leigh (Mean Girls),MG6,"Queer, 🎨, 🦄, Expressive, Chatty, Multicolored",https://openpsychometrics.org/tests/characters/test-resources/pics/MG/6.jpg
+Regina George (Mean Girls),MG2,"Bossy, Judgemental, Competitive, Rich, Bold, Dominant, Opinionated",https://openpsychometrics.org/tests/characters/test-resources/pics/MG/2.jpg
+Cady Heron (Mean Girls),MG1,"Mathematical, High Iq, Young, Two-Faced, Bookish, Nerd, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/MG/1.jpg
+Juliet Capulet (Romeo and Juliet),RJ2,"Young, Love-Focused, Romantic, Rich, Feminine, Emotional",https://openpsychometrics.org/tests/characters/test-resources/pics/RJ/2.jpg
+Gretchen Wieners (Mean Girls),MG3,"Gossiping, Feminine, Manicured, Rich, Codependent, Chatty",https://openpsychometrics.org/tests/characters/test-resources/pics/MG/3.jpg
+Janis Ian (Mean Girls),MG5,"Punk Rock, Indie, Rebellious, 🎨, Creative, Unorthodox",https://openpsychometrics.org/tests/characters/test-resources/pics/MG/5.jpg
+Karen Smith (Mean Girls),MG4,"Feminine, Head@Clouds, Oblivious, Manicured, Flower Child, Young",https://openpsychometrics.org/tests/characters/test-resources/pics/MG/4.jpg
+June George (Mean Girls),MG9,"Feminine, Chatty, Rich, Lenient, Manicured, Extrovert",https://openpsychometrics.org/tests/characters/test-resources/pics/MG/9.jpg
+Aaron Samuels (Mean Girls),MG7,"Dog Person, 🏀, Gendered, Privileged, Mainstream, Sporty",https://openpsychometrics.org/tests/characters/test-resources/pics/MG/7.jpg
+Mercutio (Romeo and Juliet),RJ4,"Italian, Bold, Loud, Extrovert, Mischievous, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/RJ/4.jpg
+Rue Bennett (Euphoria),EU1,"Chaotic, Feminist, Self-Destructive, Egalitarian, Rebellious, Depressed",https://openpsychometrics.org/tests/characters/test-resources/pics/EU/1.jpg
+Ms. Sharon Norbury (Mean Girls),MG8,"Nerd, Bookish, Intellectual, High Iq, Kind, Feminist",https://openpsychometrics.org/tests/characters/test-resources/pics/MG/8.jpg
+Captain America (Marvel Cinematic Universe),MCU2,"Diligent, Motivated, Active, Self-Disciplined, Persistent, Heroic",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/2.jpg
+Dr. Strange (Marvel Cinematic Universe),MCU8,"High Iq, Genius, Valedictorian, Intellectual, 🧠, Self-Disciplined",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/8.jpg
+Tony Stark (Marvel Cinematic Universe),MCU1,"Rich, High-Tech, High Iq, Celebrity, Main Character, Technophile",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/1.jpg
+Black Panther (Marvel Cinematic Universe),MCU9,"Loyal, Devoted, Active, Healthy, Diligent, Rich",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/9.jpg
+Thanos (Marvel Cinematic Universe),MCU11,"Dominant, Extreme, Purple, Bold, Driven, Authoritarian",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/11.jpg
+Nate Jacobs (Euphoria),EU4,"🏀, Demonic, Sporty, Poisonous, Jock, Cocky",https://openpsychometrics.org/tests/characters/test-resources/pics/EU/4.jpg
+The Nurse (Romeo and Juliet),RJ5,"Side Character, Thick, Loyal, Domestic, Tailor, Low-Tech",https://openpsychometrics.org/tests/characters/test-resources/pics/RJ/5.jpg
+Thor (Marvel Cinematic Universe),MCU6,"Loyal, Heroic, Bold, 🏋️‍♂️, Sporty, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/6.jpg
+Charlotte York (Sex and the City),SC2,"Manicured, Feminine, Preppy, Refined, Civilized, Neat, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/SC/2.jpg
+Maddy Perez (Euphoria),EU6,"Stylish, Extravagant, Attractive, Feminine, Scandalous, Purple",https://openpsychometrics.org/tests/characters/test-resources/pics/EU/6.jpg
+Peter Jason Quill (Marvel Cinematic Universe),MCU15,"Chatty, Playful, Spontaneous, Loud, Funny, Impulsive",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/15.jpg
+Nick Fury (Marvel Cinematic Universe),MCU7,"Secretive, Masculine, Dominant, Badass, Bold, Guarded",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/7.jpg
+Jules Vaughn (Euphoria),EU2,"Queer, 🚴, 🦄, Young, Liberal, 🎨",https://openpsychometrics.org/tests/characters/test-resources/pics/EU/2.jpg
+Willow Rosenberg (Buffy the Vampire Slayer),BVS3,"Nerd, Bookish, Valedictorian, Feminist, Knowledgeable, Indie",https://openpsychometrics.org/tests/characters/test-resources/pics/BVS/3.jpg
+Loki (Marvel Cinematic Universe),MCU13,"Mischievous, Rebellious, Outlaw, Arrogant, Competitive, Individualist",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/13.jpg
+Bruce Banner (Marvel Cinematic Universe),MCU4,"High Iq, Scientific, Genius, Bookish, Nerd, Loyal",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/4.jpg
+Gamora (Marvel Cinematic Universe),MCU10,"Badass, Diligent, Coordinated, Active, Persistent, Guarded",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/10.jpg
+Hawkeye (Marvel Cinematic Universe),MCU14,"Love-Focused, Coordinated, Perceptive, Active, 🏀, Sporty",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/14.jpg
+Black Widow (Marvel Cinematic Universe),MCU3,"Badass, Coordinated, Active, Motivated, Diligent, Pro",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/3.jpg
+Friar Laurence (Romeo and Juliet),RJ3,"Bookish, Old, Theist, Vintage, Intellectual, Nerd",https://openpsychometrics.org/tests/characters/test-resources/pics/RJ/3.jpg
+Xander Harris (Buffy the Vampire Slayer),BVS2,"Devoted, First-Mate, Boy/Girl-Next-Door, Cheesy, Chatty, Loyal",https://openpsychometrics.org/tests/characters/test-resources/pics/BVS/2.jpg
+Cassie Howard (Euphoria),EU3,"Beautiful, Feminine, Sexual, Flower Child, 💃, Gendered",https://openpsychometrics.org/tests/characters/test-resources/pics/EU/3.jpg
+Samantha Jones (Sex and the City),SC4,"Sexual, Bold, 💃, Playful, Open To New Experinces, Adventurous",https://openpsychometrics.org/tests/characters/test-resources/pics/SC/4.jpg
+Miranda Hobbes (Sex and the City),SC3,"Competent, Driven, Workaholic, High Iq, Diligent, Feminist",https://openpsychometrics.org/tests/characters/test-resources/pics/SC/3.jpg
+Betsy Heron (Mean Girls),MG10,"Side Character, Non-Gamer, Studious, Vintage, Well Behaved, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/MG/10.jpg
+Jim Halpert (The Office),TO3,"Funny, Good-Humored, Straight, 💝, Tall, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/3.jpg
+Mr. Big (Sex and the City),SC5,"Rich, Straight, Masculine, Privileged, City-Slicker, Gendered",https://openpsychometrics.org/tests/characters/test-resources/pics/SC/5.jpg
+Cristina Yang (Grey's Anatomy),GA2,"High Iq, Workaholic, Motivated, Driven, 👨‍⚕️, Work-First",https://openpsychometrics.org/tests/characters/test-resources/pics/GA/2.jpg
+Captain Marvel (Marvel Cinematic Universe),MCU5,"Independent, Feminist, Mighty, Dominant, Active, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/5.jpg
+Carrie Bradshaw (Sex and the City),SC1,"City-Slicker, Stylish, Cosmopolitan, Feminine, Literary, Urban",https://openpsychometrics.org/tests/characters/test-resources/pics/SC/1.jpg
+Phyllis Lapin (The Office),TO12,"Vintage, Bookish, Devoted, Thick, Gatherer, Gendered",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/12.jpg
+Izzie Stevens (Grey's Anatomy),GA3,"Love-Focused, Emotional, Flower Child, Emotional, Feminine, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/GA/3.jpg
+Addison Montgomery (Grey's Anatomy),GA10,"👨‍⚕️, Manicured, High Iq, Rich, Queen, City-Slicker",https://openpsychometrics.org/tests/characters/test-resources/pics/GA/10.jpg
+Angel (Buffy the Vampire Slayer),BVS6,"Night Owl, Dramatic, Gloomy, Reserved, Rock, Sorrowful",https://openpsychometrics.org/tests/characters/test-resources/pics/BVS/6.jpg
+George O'Malley (Grey's Anatomy),GA5,"Kind, White Knight, Emotional, Nerd, Love-Focused, Soulful, Flower Child",https://openpsychometrics.org/tests/characters/test-resources/pics/GA/5.jpg
+Meredith Grey (Grey's Anatomy),GA1,"Main Character, 👨‍⚕️, Driven, High Iq, Workaholic, Important",https://openpsychometrics.org/tests/characters/test-resources/pics/GA/1.jpg
+Dana Scully (The X-Files),XF2,"Competent, High Iq, Diligent, Factual, Scientific, Valedictorian",https://openpsychometrics.org/tests/characters/test-resources/pics/XF/2.jpg
+Derek Shepherd (Grey's Anatomy),GA9,"Charming, Straight, Sexual, Beautiful, 👨‍⚕️, High Iq",https://openpsychometrics.org/tests/characters/test-resources/pics/GA/9.jpg
+Iroh (Avatar: The Last Airbender),ALA7,"Loveable, Knowledgeable, Soulful, Patient, Empath, Treasure",https://openpsychometrics.org/tests/characters/test-resources/pics/ALA/7.jpg
+Dwight Schrute (The Office),TO2,"On-Time, Persistent, Opinionated, Intense, Strict, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/2.jpg
+Peggy Carter (Marvel Cinematic Universe),MCU12,"Diligent, Loyal, Competent, Self-Disciplined, Beautiful, Heroic",https://openpsychometrics.org/tests/characters/test-resources/pics/MCU/12.jpg
+Buffy Summers (Buffy the Vampire Slayer),BVS1,"Main Character, Protagonist, Badass, Persistent, Active, Chosen One",https://openpsychometrics.org/tests/characters/test-resources/pics/BVS/1.jpg
+Miranda Bailey (Grey's Anatomy),GA6,"Diligent, Valedictorian, Competent, Workaholic, Badass, Queen",https://openpsychometrics.org/tests/characters/test-resources/pics/GA/6.jpg
+Rupert Giles (Buffy the Vampire Slayer),BVS5,"Bookish, High Iq, Diligent, Knowledgeable, Eloquent, Nerd, Workaholic",https://openpsychometrics.org/tests/characters/test-resources/pics/BVS/5.jpg
+Lexi Howard (Euphoria),EU5,"Egalitarian, Fresh, Feminine, Boy/Girl-Next-Door, 🧠, Feminist",https://openpsychometrics.org/tests/characters/test-resources/pics/EU/5.jpg
+Steve Brady (Sex and the City),SC6,"Boy/Girl-Next-Door, 🧢, Family-First, Kind, Not Genocidal, Thrifty",https://openpsychometrics.org/tests/characters/test-resources/pics/SC/6.jpg
+Preston Burke (Grey's Anatomy),GA8,"Self-Disciplined, Workaholic, Coordinated, High Iq, Driven, Scheduled",https://openpsychometrics.org/tests/characters/test-resources/pics/GA/8.jpg
+Stanley Hudson (The Office),TO8,"🛌, Bored, Straight, Slothful, Frank, Sleepy",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/8.jpg
+Richard Webber (Grey's Anatomy),GA7,"High Iq, Master, Straight, 👨‍⚕️, Valedictorian, Workaholic",https://openpsychometrics.org/tests/characters/test-resources/pics/GA/7.jpg
+Alex Karev (Grey's Anatomy),GA4,"Straight, Sexual, Masculine, Bold, Cocky, Flirtatious",https://openpsychometrics.org/tests/characters/test-resources/pics/GA/4.jpg
+Gandalf (Lord of the Rings),LOTR6,"High Iq, Pro, Master, Important, Knowledgeable, Old",https://openpsychometrics.org/tests/characters/test-resources/pics/LOTR/6.jpg
+Fox Mulder (The X-Files),XF1,"Main Character, Curious, Conspiracist, Persistent, Motivated, Open To New Experinces",https://openpsychometrics.org/tests/characters/test-resources/pics/XF/1.jpg
+Pam Beesly (The Office),TO4,"🎨, Flower Child, Straight, Boy/Girl-Next-Door, Artistic, Kind, Nurturing, Love-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/4.jpg
+Michael Scott (The Office),TO1,"Main Character, Chatty, Impulsive, Loud, Dramatic, Goof-Off",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/1.jpg
+Kelly Kapoor (The Office),TO13,"Chatty, Gossiping, Dramatic, Emotional, Fast-Talking, Feminine",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/13.jpg
+Benvolio (Romeo and Juliet),RJ6,"Italian, Young, Rich, French, Side Character, Loyal",https://openpsychometrics.org/tests/characters/test-resources/pics/RJ/6.jpg
+Zuko (Avatar: The Last Airbender),ALA2,"Fire, Driven, Important, Persistent, Complicated, Tense, 🤺",https://openpsychometrics.org/tests/characters/test-resources/pics/ALA/2.jpg
+Kevin Malone (The Office),TO9,"🛌, Clumsy, Slothful, Oblivious, Thick, Slow",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/9.jpg
+Cordelia Chase (Buffy the Vampire Slayer),BVS4,"Manicured, Extravagant, Feminine, Stylish, Gendered, Bossy, Social",https://openpsychometrics.org/tests/characters/test-resources/pics/BVS/4.jpg
+Angela Martin (The Office),TO11,"Cat Person, Judgemental, Strict, Scheduled, Tense, Offended",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/11.jpg
+Andy Bernard (The Office),TO6,"Privileged, Chatty, Expressive, Dramatic, Extrovert, Emotional",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/6.jpg
+Azula (Avatar: The Last Airbender),ALA6,"Fire, Competitive, Bossy, Driven, Overachiever, Intense",https://openpsychometrics.org/tests/characters/test-resources/pics/ALA/6.jpg
+Jan Levinson (The Office),TO7,"Dominant, Demanding, Bossy, Assertive, Jaded, Sexual",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/7.jpg
+Legolas (Lord of the Rings),LOTR8,"Coordinated, Active, Heroic, Loyal, Pro, Competent",https://openpsychometrics.org/tests/characters/test-resources/pics/LOTR/8.jpg
+Firelord Ozai (Avatar: The Last Airbender),ALA8,"Fire, Intense, Serious, Dominant, Strict, Hard",https://openpsychometrics.org/tests/characters/test-resources/pics/ALA/8.jpg
+Sokka (Avatar: The Last Airbender),ALA5,"Loyal, Loud, Heroic, Funny, Chatty, 😜",https://openpsychometrics.org/tests/characters/test-resources/pics/ALA/5.jpg
+Toph Beifong (Avatar: The Last Airbender),ALA4,"Earth, Badass, Frank, Pro, F***-The-Police, Sturdy",https://openpsychometrics.org/tests/characters/test-resources/pics/ALA/4.jpg
+Samwise Gamgee (Lord of the Rings),LOTR5,"Loyal, Kind, Heroic, Grateful, 😇, Devoted",https://openpsychometrics.org/tests/characters/test-resources/pics/LOTR/5.jpg
+Ryan Howard (The Office),TO5,"Entitled, Arrogant, Selfish, Receiving, City-Slicker, Money-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/5.jpg
+Katara (Avatar: The Last Airbender),ALA3,"Water, Loyal, Devoted, Heroic, Soulful, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/ALA/3.jpg
+Aang (Avatar: The Last Airbender),ALA1,"Loyal, Kind, Heroic, Soulful, Vegan, Important, Egalitarian",https://openpsychometrics.org/tests/characters/test-resources/pics/ALA/1.jpg
+Meredith Palmer (The Office),TO10,"Indulgent, Kinky, Scandalous, Jaded, Wild, F***-The-Police",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/10.jpg
+Dan Humphrey (Gossip Girl),GOG3,"Bookish, Boy/Girl-Next-Door, Nerd, 🧠, Perceptive, Two-Faced",https://openpsychometrics.org/tests/characters/test-resources/pics/GOG/3.jpg
+Frodo Baggins (Lord of the Rings),LOTR1,"Short, Protagonist, Main Character, Country-Bumpkin, Heroic, Kind",https://openpsychometrics.org/tests/characters/test-resources/pics/LOTR/1.jpg
+Kelly Erin Hannon (The Office),TO14,"Flower Child, Optimistic, Sunny, Kind, Cheery, Sweet",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/14.jpg
+Boromir (Lord of the Rings),LOTR3,"Masculine, Bold, Jock, Doer, Driven, Opinionated",https://openpsychometrics.org/tests/characters/test-resources/pics/LOTR/3.jpg
+Meg March (Little Women),LW2,"Beautiful, Feminine, Civilized, Family-First, Flower Child, Devoted",https://openpsychometrics.org/tests/characters/test-resources/pics/LW/2.jpg
+Amy March (Little Women),LW3,"🎨, Beautiful, Artistic, Feminine, Manicured, Stylish",https://openpsychometrics.org/tests/characters/test-resources/pics/LW/3.jpg
+Rosa Diaz (Brooklyn Nine-Nine),B992,"Secretive, Badass, Dominant, Punk Rock, Independent, Private",https://openpsychometrics.org/tests/characters/test-resources/pics/B99/2.jpg
+Raymond Holt (Brooklyn Nine-Nine),B996,"Self-Disciplined, On-Time, Neat, Valedictorian, Diligent, Competent",https://openpsychometrics.org/tests/characters/test-resources/pics/B99/6.jpg
+Merry Brandybuck (Lord of the Rings),LOTR4,"Short, Summer, Loyal, Kind, Good-Humored, Flower Child",https://openpsychometrics.org/tests/characters/test-resources/pics/LOTR/4.jpg
+Walter Skinner (The X-Files),XF3,"Serious, Masculine, Rational, 🐴, Self-Disciplined, Gendered, Studious",https://openpsychometrics.org/tests/characters/test-resources/pics/XF/3.jpg
+Gollum (Lord of the Rings),LOTR10,"Obsessed, Self-Destructive, Moody, Scruffy, Freak, Weird",https://openpsychometrics.org/tests/characters/test-resources/pics/LOTR/10.jpg
+Terry Jeffords (Brooklyn Nine-Nine),B993,"Active, 🏋️‍♂️, Loyal, Tall, Healthy, Egalitarian",https://openpsychometrics.org/tests/characters/test-resources/pics/B99/3.jpg
+Serena van der Woodsen (Gossip Girl),GOG1,"Rich, 💃, Privileged, Sexual, Playful, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/GOG/1.jpg
+Aragorn (Lord of the Rings),LOTR2,"Heroic, Loyal, Competent, Diligent, Active, Badass",https://openpsychometrics.org/tests/characters/test-resources/pics/LOTR/2.jpg
+Eric Forman (That 70's Show),T7S1,"Nerd, Boy/Girl-Next-Door, 🧠, Thin, Rock, Bookish",https://openpsychometrics.org/tests/characters/test-resources/pics/T7S/1.jpg
+Theodore Laurence (Little Women),LW6,"Rich, Beautiful, Privileged, Love-Focused, Young, Attractive",https://openpsychometrics.org/tests/characters/test-resources/pics/LW/6.jpg
+Gimli (Lord of the Rings),LOTR7,"Earth, Short, Masculine, Scruffy, Loyal, One-Faced",https://openpsychometrics.org/tests/characters/test-resources/pics/LOTR/7.jpg
+Jo March (Little Women),LW1,"Feminist, Literary, Driven, Open To New Experinces, Independent, High Iq",https://openpsychometrics.org/tests/characters/test-resources/pics/LW/1.jpg
+Marmee March (Little Women),LW5,"Kind, Nurturing, Loyal, Clean, Empath, Mature, Generous",https://openpsychometrics.org/tests/characters/test-resources/pics/LW/5.jpg
+Charles Boyle (Brooklyn Nine-Nine),B995,"Emotional, Loyal, Love-Focused, Kind, Devoted, Romantic, Touchy-Feely",https://openpsychometrics.org/tests/characters/test-resources/pics/B99/5.jpg
+Beth March (Little Women),LW4,"Kind, Clean, 😇, Loyal, Wholesome, Angelic",https://openpsychometrics.org/tests/characters/test-resources/pics/LW/4.jpg
+Jake Peralta (Brooklyn Nine-Nine),B991,"Playful, Funny, Chatty, Main Character, Loud, Expressive",https://openpsychometrics.org/tests/characters/test-resources/pics/B99/1.jpg
+Pippin Took (Lord of the Rings),LOTR9,"Short, Curious, Kind, Loyal, Good-Humored, Funny, Young, Chatty",https://openpsychometrics.org/tests/characters/test-resources/pics/LOTR/9.jpg
+Nate Archibald (Gossip Girl),GOG4,"Beautiful, Preppy, Privileged, Sexual, City-Slicker, 🏀",https://openpsychometrics.org/tests/characters/test-resources/pics/GOG/4.jpg
+Kitty Forman (That 70's Show),T7S7,"Emotional, Feminine, Short, Flower Child, Devoted, Family-First",https://openpsychometrics.org/tests/characters/test-resources/pics/T7S/7.jpg
+Amy Santiago (Brooklyn Nine-Nine),B994,"Valedictorian, Self-Disciplined, Neat, Overachiever, Scheduled, Workaholic",https://openpsychometrics.org/tests/characters/test-resources/pics/B99/4.jpg
+Blair Waldorf (Gossip Girl),GOG2,"Rich, Manicured, Feminine, City-Slicker, Competitive, 🤑",https://openpsychometrics.org/tests/characters/test-resources/pics/GOG/2.jpg
+Donna Pinciotti (That 70's Show),T7S5,"Tall, Feminist, Beautiful, Boy/Girl-Next-Door, Badass, Competent",https://openpsychometrics.org/tests/characters/test-resources/pics/T7S/5.jpg
+Michael Kelso (That 70's Show),T7S3,"Goof-Off, Sexual, Impulsive, Playful, Playful, Plays Hard",https://openpsychometrics.org/tests/characters/test-resources/pics/T7S/3.jpg
+Lily van der Woodsen (Gossip Girl),GOG6,"Rich, City-Slicker, Feminine, Privileged, Manicured, Extravagant",https://openpsychometrics.org/tests/characters/test-resources/pics/GOG/6.jpg
+Chuck Bass (Gossip Girl),GOG5,"Rich, Sexual, 🤑, Dominant, Extravagant, City-Slicker",https://openpsychometrics.org/tests/characters/test-resources/pics/GOG/5.jpg
+Steven Hyde (That 70's Show),T7S4,"F***-The-Police, Rock, Punk Rock, Rebellious, Freelance, Outlaw",https://openpsychometrics.org/tests/characters/test-resources/pics/T7S/4.jpg
+Fez (That 70's Show),T7S6,"Gullible, Love-Focused, Lover, Flower Child, Expressive, Chatty",https://openpsychometrics.org/tests/characters/test-resources/pics/T7S/6.jpg
+Red Forman (That 70's Show),T7S8,"Frank, Never Cries, Straight, Masculine, Cynical, Direct",https://openpsychometrics.org/tests/characters/test-resources/pics/T7S/8.jpg
+Jackie Burkhart (That 70's Show),T7S2,"Manicured, Feminine, Chatty, Beautiful, Privileged, Bossy, Overspender",https://openpsychometrics.org/tests/characters/test-resources/pics/T7S/2.jpg
+Leonard Hofstadter (The Big Bang Theory),BBT1,"Bookish, Nerd, Intellectual, High Iq, 🧠, Scientific",https://openpsychometrics.org/tests/characters/test-resources/pics/BBT/1.jpg
+Ola Nyman (Sex Education),SE10,"Feminist, Queer, Liberal, Open-Minded, Political, Love-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/SE/10.jpg
+Ty Lee (Avatar: The Last Airbender),ALA9,"Vibrant, Active, Sunny, Summer, Flexible, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/ALA/9.jpg
+Robert California (The Office),TO15,"Bold, Privileged, Arrogant, Sexual, Narcissistic, Entitled",https://openpsychometrics.org/tests/characters/test-resources/pics/TO/15.jpg
+Bernadette Rostenkowski (The Big Bang Theory),BBT7,"Short, High Iq, Competent, Valedictorian, Driven, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/BBT/7.jpg
+Bob Pinciotti (That 70's Show),T7S10,"Chatty, Cheesy, Italian, Goof-Off, Dunce, Loud",https://openpsychometrics.org/tests/characters/test-resources/pics/T7S/10.jpg
+Maeve Wiley (Sex Education),SE3,"Feminist, F***-The-Police, Atheist, Genius, Beautiful, Attractive",https://openpsychometrics.org/tests/characters/test-resources/pics/SE/3.jpg
+Homer Simpson (The Simpsons),S1,"Disorganized, Impulsive, Messy, 🛌, Loud, Goof-Off",https://openpsychometrics.org/tests/characters/test-resources/pics/S/1.jpg
+Lisa Simpson (The Simpsons),S4,"Bookish, Intellectual, High Iq, Nerd, Diligent, Self-Disciplined, Driven, Valedictorian",https://openpsychometrics.org/tests/characters/test-resources/pics/S/4.jpg
+Lily Iglehart (Sex Education),SE9,"🦄, Multicolored, Creative, Imaginative, 👽, 🎨",https://openpsychometrics.org/tests/characters/test-resources/pics/SE/9.jpg
+Sheldon Cooper (The Big Bang Theory),BBT2,"Bookish, Scientific, Intellectual, Nerd, High Iq, 🧠",https://openpsychometrics.org/tests/characters/test-resources/pics/BBT/2.jpg
+Penny (The Big Bang Theory),BBT3,"Sexual, Extrovert, 💃, Chatty, Playful, Summer",https://openpsychometrics.org/tests/characters/test-resources/pics/BBT/3.jpg
+Jean Milburn (Sex Education),SE2,"Queen, Egalitarian, Open To New Experinces, Open-Minded, Liberal, Attractive",https://openpsychometrics.org/tests/characters/test-resources/pics/SE/2.jpg
+Veronica Lodge (Riverdale),RD3,"Rich, Bold, City-Slicker, Main Character, Sexual, Feminine, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/RD/3.jpg
+Mercedes Jones (Glee),GLEE8,"Musical, Rhythmic, Beautiful, Badass, Feminist, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/GLEE/8.jpg
+Anna (Frozen),FR1,"Love-Focused, Kind, Family-First, Flower Child, Soulful, Emotional",https://openpsychometrics.org/tests/characters/test-resources/pics/FR/1.jpg
+Amy Farrah Fowler (The Big Bang Theory),BBT8,"High Iq, Bookish, Nerd, Valedictorian, Genius, Scientific",https://openpsychometrics.org/tests/characters/test-resources/pics/BBT/8.jpg
+Raj Koothrappali (The Big Bang Theory),BBT5,"Nerd, Bookish, 🧠, Lover, Gamer, High-Tech",https://openpsychometrics.org/tests/characters/test-resources/pics/BBT/5.jpg
+Chidi Anagonye (The Good Place),GP2,"Bookish, Nerd, Intellectual, Valedictorian, High Iq, Thinker",https://openpsychometrics.org/tests/characters/test-resources/pics/GP/2.jpg
+Adam Groff (Sex Education),SE5,"Guarded, Reclusive, Reserved, Tall, Love-Focused, Slow-Talking",https://openpsychometrics.org/tests/characters/test-resources/pics/SE/5.jpg
+Eleanor Shellstrop (The Good Place),GP1,"Funny, Playful, Main Character, F***-The-Police, Bold, Rebellious",https://openpsychometrics.org/tests/characters/test-resources/pics/GP/1.jpg
+Howard Wolowitz (The Big Bang Theory),BBT4,"Nerd, Bookish, 🧠, High-Tech, Dorky, Technophile",https://openpsychometrics.org/tests/characters/test-resources/pics/BBT/4.jpg
+Marge Simpson (The Simpsons),S3,"Family-First, Loyal, Kind, Diligent, Nurturing, 🌟",https://openpsychometrics.org/tests/characters/test-resources/pics/S/3.jpg
+Tahani Al-Jamil (The Good Place),GP3,"Rich, Extravagant, Manicured, Feminine, Beautiful, Stylish",https://openpsychometrics.org/tests/characters/test-resources/pics/GP/3.jpg
+SpongeBob SquarePants (SpongeBob SquarePants),SBSP1,"Extrovert, Chatty, Optimistic, Happy, Sunny, Summer",https://openpsychometrics.org/tests/characters/test-resources/pics/SBSP/1.jpg
+Nelson Muntz (The Simpsons),S10,"Mischievous, Physical, Rebellious, Scruffy, Insulting, 💪",https://openpsychometrics.org/tests/characters/test-resources/pics/S/10.jpg
+Bart Simpson (The Simpsons),S2,"Mischievous, Rebellious, Spontaneous, Playful, Chaotic, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/S/2.jpg
+Principal Skinner (The Simpsons),S15,"Basic, Conventional, Side Character, Scheduled, Obedient, Stick-In-The-Mud",https://openpsychometrics.org/tests/characters/test-resources/pics/S/15.jpg
+Jason Mendoza (The Good Place),GP5,"Spontaneous, Disorganized, Juvenile, Chaotic, Impulsive, Goof-Off",https://openpsychometrics.org/tests/characters/test-resources/pics/GP/5.jpg
+Krusty the Clown (The Simpsons),S11,"Loud, Scandalous, Flamboyant, Mischievous, Money-Focused, Chaotic",https://openpsychometrics.org/tests/characters/test-resources/pics/S/11.jpg
+Cheryl Blossom (Riverdale),RD6,"Rich, Bold, Fire, Playful, Bossy, Opinionated, Competitive",https://openpsychometrics.org/tests/characters/test-resources/pics/RD/6.jpg
+Jughead Jones (Riverdale),RD4,"Bookish, 🎨, Night Owl, Poor, Literary, F***-The-Police",https://openpsychometrics.org/tests/characters/test-resources/pics/RD/4.jpg
+Archie Andrews (Riverdale),RD1,"Dog Person, Sporty, Masculine, Orange, 🧢, Jock",https://openpsychometrics.org/tests/characters/test-resources/pics/RD/1.jpg
+Eric Effiong (Sex Education),SE4,"Queer, Expressive, Creative, 🎨, Multicolored, Liberal",https://openpsychometrics.org/tests/characters/test-resources/pics/SE/4.jpg
+Michael (The Good Place),GP6,"Motivated, Driven, Tall, Intellectual, Bookish, Old",https://openpsychometrics.org/tests/characters/test-resources/pics/GP/6.jpg
+Betty Cooper (Riverdale),RD2,"Workaholic, Overachiever, High Iq, Valedictorian, Beautiful, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/RD/2.jpg
+Otis Milburn (Sex Education),SE1,"🧠, 🚴, Nerd, Bookish, Protagonist, Skeptical",https://openpsychometrics.org/tests/characters/test-resources/pics/SE/1.jpg
+Janet (The Good Place),GP4,"Knowledgeable, High Iq, Factual, On-Time, Diligent, High-Tech",https://openpsychometrics.org/tests/characters/test-resources/pics/GP/4.jpg
+Midge Pinciotti (That 70's Show),T7S9,"Feminine, Head@Clouds, Oblivious, Flower Child, Manicured, Summer",https://openpsychometrics.org/tests/characters/test-resources/pics/T7S/9.jpg
+Jackson Marchetti (Sex Education),SE6,"Egalitarian, Manicured, 👟, Active, Beautiful, English",https://openpsychometrics.org/tests/characters/test-resources/pics/SE/6.jpg
+Ned Flanders (The Simpsons),S7,"Theist, Obedient, Neat, Spiritual, Well Behaved, Self-Disciplined",https://openpsychometrics.org/tests/characters/test-resources/pics/S/7.jpg
+Kevin Keller (Riverdale),RD5,"Queer, 🦄, Feminist, Love-Focused, Preppy, Flower Child",https://openpsychometrics.org/tests/characters/test-resources/pics/RD/5.jpg
+Mr. Burns (The Simpsons),S6,"Money-Focused, Old, Selfish, Work-First, Rich, Cold",https://openpsychometrics.org/tests/characters/test-resources/pics/S/6.jpg
+Jerry Seinfeld (Seinfeld),SF1,"Main Character, Urban, City-Slicker, Funny, Sarcastic, Comedic",https://openpsychometrics.org/tests/characters/test-resources/pics/SF/1.jpg
+Milhouse Van Houten (The Simpsons),S8,"Nerd, Submissive, Beta, Weakass, First-Mate, Bookish",https://openpsychometrics.org/tests/characters/test-resources/pics/S/8.jpg
+Aimee Gibbs (Sex Education),SE7,"Chatty, Summer, Flower Child, Sweet, Not Genocidal, Soulful",https://openpsychometrics.org/tests/characters/test-resources/pics/SE/7.jpg
+Hans (Frozen),FR5,"Two-Faced, Traitorous, Villainous, Selfish, Punchable, Entitled",https://openpsychometrics.org/tests/characters/test-resources/pics/FR/5.jpg
+George Costanza (Seinfeld),SF2,"Opinionated, Short, Anxious, Self-Destructive, Exaggerating, Tense, Nerd",https://openpsychometrics.org/tests/characters/test-resources/pics/SF/2.jpg
+Hakoda (Avatar: The Last Airbender),ALA10,"Water, Loyal, Not Genocidal, Heroic, Love-Focused, Respectful",https://openpsychometrics.org/tests/characters/test-resources/pics/ALA/10.jpg
+Elaine Benes (Seinfeld),SF3,"Opinionated, Chatty, City-Slicker, Expressive, Urban, Loud",https://openpsychometrics.org/tests/characters/test-resources/pics/SF/3.jpg
+Ron Weasley (Harry Potter),HP1,"Loyal, Family-First, Heroic, Messy, First-Mate, Orange",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/1.jpg
+Cosmo Kramer (Seinfeld),SF4,"Twitchy, Weird, Quirky, Random, Chaotic, Experimental",https://openpsychometrics.org/tests/characters/test-resources/pics/SF/4.jpg
+Minerva McGonagall (Harry Potter),HP6,"Competent, Cat Person, Knowledgeable, Loyal, Diligent, High Iq",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/6.jpg
+Moe Szyslak (The Simpsons),S9,"Night Owl, Depressed, Pessimistic, Blue-Collar, Desperate, Low-Tech",https://openpsychometrics.org/tests/characters/test-resources/pics/S/9.jpg
+Rachel Berry (Glee),GLEE3,"Dramatic, Dramatic, Opinionated, Demanding, Loud, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/GLEE/3.jpg
+Elsa (Frozen),FR2,"Winter, Rich, Beautiful, Feminist, Queen, Important",https://openpsychometrics.org/tests/characters/test-resources/pics/FR/2.jpg
+Draco Malfoy (Harry Potter),HP10,"Arrogant, Competitive, Rich, Judgemental, Quarrelsome, Receiving",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/10.jpg
+Michael Groff (Sex Education),SE8,"Vintage, Serious, Tense, Guarded, Conservative, Rigid",https://openpsychometrics.org/tests/characters/test-resources/pics/SE/8.jpg
+Artie Abrams (Glee),GLEE5,"Nerd, Bookish, 🧠, High Iq, Intellectual, 🎨",https://openpsychometrics.org/tests/characters/test-resources/pics/GLEE/5.jpg
+Waylon Smithers (The Simpsons),S13,"Nerd, Submissive, Beta, Loyal, Neat, Obedient",https://openpsychometrics.org/tests/characters/test-resources/pics/S/13.jpg
+Tina Cohen-Chang (Glee),GLEE7,"🎨, Side Character, Bookish, Nerd, Beautiful, First-Mate",https://openpsychometrics.org/tests/characters/test-resources/pics/GLEE/7.jpg
+Rubeus Hagrid (Harry Potter),HP4,"Kind, Loyal, Tall, Soulful, Scruffy, Warm",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/4.jpg
+Barney Gumble (The Simpsons),S14,"Scruffy, Messy, Indulgent, Disorganized, Slothful, Slovenly",https://openpsychometrics.org/tests/characters/test-resources/pics/S/14.jpg
+Will Schuester (Glee),GLEE4,"🎨, Touchy-Feely, Artistic, Involved, Cheesy, Flower Child",https://openpsychometrics.org/tests/characters/test-resources/pics/GLEE/4.jpg
+Mr. Krabs (SpongeBob SquarePants),SBSP4,"Money-Focused, 🤑, Receiving, Arrogant, Competitive, Bossy",https://openpsychometrics.org/tests/characters/test-resources/pics/SBSP/4.jpg
+Sue Sylvester (Glee),GLEE2,"Opinionated, Competitive, Bold, Bossy, Intense, Cocky",https://openpsychometrics.org/tests/characters/test-resources/pics/GLEE/2.jpg
+Luna Lovegood (Harry Potter),HP9,"Kind, Open To New Experinces, Creative, Love-Focused, 🎨, Loyal",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/9.jpg
+Stuart Bloom (The Big Bang Theory),BBT9,"Bookish, Desperate, Nerd, Beta, Side Character, Often Crying",https://openpsychometrics.org/tests/characters/test-resources/pics/BBT/9.jpg
+Troy Barnes (Community),C4,"Funny, Sunny, Loyal, 😜, Vibrant, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/C/4.jpg
+Abed Nadir (Community),C3,"Nerd, Analysis, 🧠, High Iq, Intellectual, Gamer",https://openpsychometrics.org/tests/characters/test-resources/pics/C/3.jpg
+Patrick Star (SpongeBob SquarePants),SBSP2,"Slacker, Goof-Off, Juvenile, Sunny, Drop Out, Open",https://openpsychometrics.org/tests/characters/test-resources/pics/SBSP/2.jpg
+Squidward Tentacles (SpongeBob SquarePants),SBSP3,"Pessimistic, Stick-In-The-Mud, Miserable, Scheduled, Unmotivated, Neat",https://openpsychometrics.org/tests/characters/test-resources/pics/SBSP/3.jpg
+Sirius Black (Harry Potter),HP30,"Badass, Loyal, Adventurous, Rebellious, F***-The-Police, Charismatic",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/30.jpg
+Arthur Weasley (Harry Potter),HP21,"Loyal, Kind, Devoted, Reassuring, Heroic, Soulful",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/21.jpg
+Apu Nahasapeemapetilon (The Simpsons),S5,"Summer, Blue-Collar, Works Hard, Workaholic, Side Character, Penny-Pincher",https://openpsychometrics.org/tests/characters/test-resources/pics/S/5.jpg
+Dolores Umbridge (Harry Potter),HP23,"Cruel, Psychopath, Punchable, 😈, Strict, Vengeful",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/23.jpg
+Hermione Granger (Harry Potter),HP3,"High Iq, Competent, Diligent, Motivated, Self-Disciplined, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/3.jpg
+Sandy Cheeks (SpongeBob SquarePants),SBSP5,"High-Tech, Active, High Iq, Independent, Open To New Experinces, Patriotic",https://openpsychometrics.org/tests/characters/test-resources/pics/SBSP/5.jpg
+Kristoff (Frozen),FR3,"🥾, Loyal, Kind, Heroic, Devoted, Country-Bumpkin",https://openpsychometrics.org/tests/characters/test-resources/pics/FR/3.jpg
+Jeff Winger (Community),C1,"Cocky, Sexual, Skeptical, City-Slicker, Arrogant, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/C/1.jpg
+Kurt Hummel (Glee),GLEE1,"Queer, 🎨, 🦄, Manicured, 🎩, Metrosexual, Artistic",https://openpsychometrics.org/tests/characters/test-resources/pics/GLEE/1.jpg
+Dobby (Harry Potter),HP27,"Short, Emotional, Devoted, Loyal, Kind, Love-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/27.jpg
+Walter White (Breaking Bad),BB1,"Perceptive, Secretive, Motivated, High Iq, Driven, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/BB/1.jpg
+Lord Voldemort (Harry Potter),HP12,"Vengeful, Genocidal, Cruel, Intense, Villainous, Entitled",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/12.jpg
+Santana Lopez (Glee),GLEE6,"Queen, Beautiful, Badass, Bold, Cocky, Fire",https://openpsychometrics.org/tests/characters/test-resources/pics/GLEE/6.jpg
+Albus Dumbledore (Harry Potter),HP5,"Master, 🧙, High Iq, Intellectual, Pro, Old",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/5.jpg
+Daryl Dixon (The Walking Dead),WD8,"Badass, Scruffy, F***-The-Police, Pro, Important, Resourceful",https://openpsychometrics.org/tests/characters/test-resources/pics/WD/8.jpg
+Severus Snape (Harry Potter),HP7,"Serious, Secretive, Bookish, Guarded, Reserved, Sorrowful",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/7.jpg
+Shirley Bennett (Community),C6,"Theist, Gendered, Queen, Devout, Spiritual, Soulful",https://openpsychometrics.org/tests/characters/test-resources/pics/C/6.jpg
+George Weasley (Harry Potter),HP18,"Good-Humored, Funny, Open To New Experinces, Playful, Adventurous, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/18.jpg
+Bellatrix Lestrange (Harry Potter),HP28,"Psychopath, Mischievous, Cruel, Goth, Vengeful, Extreme",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/28.jpg
+Jesse Pinkman (Breaking Bad),BB3,"Punk Rock, Important, F***-The-Police, Emotional, Scruffy, Messy",https://openpsychometrics.org/tests/characters/test-resources/pics/BB/3.jpg
+Alastor Moody (Harry Potter),HP19,"Scruffy, Masculine, Street-Smart, Bold, Never Cries, Rugged",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/19.jpg
+Derrial Book (Firefly + Serenity),FS8,"Self-Disciplined, Theist, Mature, Devoted, Sage, Egalitarian",https://openpsychometrics.org/tests/characters/test-resources/pics/FS/8.jpg
+Olaf (Frozen),FR4,"Kind, Chatty, Good-Humored, Loyal, 😜, Open To New Experinces",https://openpsychometrics.org/tests/characters/test-resources/pics/FR/4.jpg
+Harry Potter (Harry Potter),HP2,"Loyal, Persistent, English, Protagonist, Main Character, Heroic",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/2.jpg
+Britta Perry (Community),C2,"Opinionated, Feminist, Stubborn, Atheist, Contrarian, Political, Vegan",https://openpsychometrics.org/tests/characters/test-resources/pics/C/2.jpg
+Moaning Myrtle (Harry Potter),HP25,"Often Crying, Moody, Side Character, Emotional, Nerd, Dramatic",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/25.jpg
+Mike Ehrmantraut (Breaking Bad),BB9,"Badass, Confidential, Street-Smart, Self-Disciplined, Masculine, Competent",https://openpsychometrics.org/tests/characters/test-resources/pics/BB/9.jpg
+Jayne Cobb (Firefly + Serenity),FS7,"💪, Physical, Gendered, Rugged, Unpolished, Sporty, Frank",https://openpsychometrics.org/tests/characters/test-resources/pics/FS/7.jpg
+Craig Pelton (Community),C8,"Touchy-Feely, Flamboyant, Nerd, Chatty, Queer, Often Crying",https://openpsychometrics.org/tests/characters/test-resources/pics/C/8.jpg
+Hank Schrader (Breaking Bad),BB4,"Straight, Masculine, 🏀, Sheriff, Gendered, Patriotic",https://openpsychometrics.org/tests/characters/test-resources/pics/BB/4.jpg
+Kaylee Frye (Firefly + Serenity),FS4,"Not Genocidal, Kind, Loyal, 👨‍🔧, Warm, Loveable",https://openpsychometrics.org/tests/characters/test-resources/pics/FS/4.jpg
+Ben Chang (Community),C9,"Mischievous, Weird, Wild, Chaotic, Freak, Extreme",https://openpsychometrics.org/tests/characters/test-resources/pics/C/9.jpg
+Noah Puckerman (Glee),GLEE9,"Sexual, Rebellious, Jock, Sporty, Masculine, F***-The-Police",https://openpsychometrics.org/tests/characters/test-resources/pics/GLEE/9.jpg
+Gus Fring (Breaking Bad),BB8,"Self-Disciplined, Diligent, On-Time, Coordinated, Driven, High Iq",https://openpsychometrics.org/tests/characters/test-resources/pics/BB/8.jpg
+Glenn Rhee (The Walking Dead),WD6,"Heroic, Loyal, 🌟, Kind, One-Faced, Treasure",https://openpsychometrics.org/tests/characters/test-resources/pics/WD/6.jpg
+Mary Cooper (The Big Bang Theory),BBT10,"Non-Gamer, Theist, Devout, Side Character, Spiritual, 🤠",https://openpsychometrics.org/tests/characters/test-resources/pics/BBT/10.jpg
+Leslie Winkle (The Big Bang Theory),BBT6,"Side Character, High Iq, Direct, Cynical, Competitive, Skeptical, Sarcastic",https://openpsychometrics.org/tests/characters/test-resources/pics/BBT/6.jpg
+Molly Weasley (Harry Potter),HP11,"Family-First, Loyal, Love-Focused, Soulful, Warm, Heroic",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/11.jpg
+Dr. Gregory House (House),H1,"Main Character, High Iq, Stubborn, Rebellious, Master, Unorthodox",https://openpsychometrics.org/tests/characters/test-resources/pics/H/1.jpg
+Merle Dixon (The Walking Dead),WD10,"Mischievous, Scruffy, Masculine, Outlaw, Quarrelsome, Rough",https://openpsychometrics.org/tests/characters/test-resources/pics/WD/10.jpg
+Inara Serra (Firefly + Serenity),FS3,"Manicured, Charming, Beautiful, Sexual, Attractive, Feminine, Stylish",https://openpsychometrics.org/tests/characters/test-resources/pics/FS/3.jpg
+Hoban Washburne (Firefly + Serenity),FS6,"Devoted, Funny, Loyal, Not Genocidal, Heroic, One-Faced",https://openpsychometrics.org/tests/characters/test-resources/pics/FS/6.jpg
+Pierce Hawthorne (Community),C7,"Entitled, Sexist, Privileged, Arrogant, Interrupting, Stubborn",https://openpsychometrics.org/tests/characters/test-resources/pics/C/7.jpg
+Skyler White (Breaking Bad),BB2,"Non-Gamer, Dramatic, Offended, Tense, Straight, Miserable",https://openpsychometrics.org/tests/characters/test-resources/pics/BB/2.jpg
+Annie Edison (Community),C5,"Diligent, On-Time, Preppy, Overachiever, Feminine, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/C/5.jpg
+Dr. Robert Chase (House),H5,"Privileged, Young, 👨‍⚕️, Beautiful, Sexual, Preppy",https://openpsychometrics.org/tests/characters/test-resources/pics/H/5.jpg
+Ginny Weasley (Harry Potter),HP8,"Loyal, Heroic, Kind, Young, Devoted, Egalitarian",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/8.jpg
+Dr. James Wilson (House),H3,"Loyal, Knowledgeable, 👨‍⚕️, Respectful, Empath, Valedictorian",https://openpsychometrics.org/tests/characters/test-resources/pics/H/3.jpg
+Petunia Dursley (Harry Potter),HP24,"Non-Gamer, Stick-In-The-Mud, Conventional, Judgemental, Uncreative, Tense, Side Character",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/24.jpg
+Angel Batista (Dexter),D6,"Summer, Not Genocidal, 💃, Gendered, Soulful, Sexual",https://openpsychometrics.org/tests/characters/test-resources/pics/D/6.jpg
+The Joker (The Dark Knight),DK3,"Rebellious, Mischievous, Extreme, Bold, Freelance, Wild, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/DK/3.jpg
+Viktor Krum (Harry Potter),HP15,"Sporty, Masculine, 🏀, Russian, Active, 💪",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/15.jpg
+Remus Lupin (Harry Potter),HP20,"Loyal, High Iq, Love-Focused, Heroic, Kind, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/20.jpg
+Filius Flitwick (Harry Potter),HP16,"Short, Bookish, Nerd, Intellectual, Side Character, 🧠",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/16.jpg
+Cho Chang (Harry Potter),HP13,"Side Character, Feminine, Manicured, Civilized, Young, Refined, Studious",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/13.jpg
+Edna Krabappel (The Simpsons),S12,"Side Character, Sarcastic, Cat Person, Gossiping, Pessimistic, Bookish",https://openpsychometrics.org/tests/characters/test-resources/pics/S/12.jpg
+Carol Peletier (The Walking Dead),WD9,"Diligent, Perceptive, Persistent, Rock, Feminist, 🧗",https://openpsychometrics.org/tests/characters/test-resources/pics/WD/9.jpg
+Brittany Pierce (Glee),GLEE10,"🦄, 💃, Fantastical, Imaginative, Optimistic, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/GLEE/10.jpg
+Rita Skeeter (Harry Potter),HP26,"Gossiping, Judgemental, Work-First, Competitive, Arrogant, Mischievous",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/26.jpg
+Rick Grimes (The Walking Dead),WD1,"Main Character, Persistent, Motivated, Diligent, Straight, Captain",https://openpsychometrics.org/tests/characters/test-resources/pics/WD/1.jpg
+Dr. Eric Foreman (House),H4,"👨‍⚕️, High Iq, Gendered, Realistic, Scientific, Studious, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/H/4.jpg
+Dr. Lisa Cuddy (House),H2,"Valedictorian, Pointed, On-Time, Workaholic, Manicured, Diligent, Overachiever",https://openpsychometrics.org/tests/characters/test-resources/pics/H/2.jpg
+Debra Morgan (Dexter),D3,"Demanding, Workaholic, Frank, Driven, Persistent, Feisty",https://openpsychometrics.org/tests/characters/test-resources/pics/D/3.jpg
+River Tam (Firefly + Serenity),FS2,"High Iq, Extraordinary, Genius, Weird, Chosen One, Haunted",https://openpsychometrics.org/tests/characters/test-resources/pics/FS/2.jpg
+Malcolm Reynolds (Firefly + Serenity),FS1,"Captain, Freelance, F***-The-Police, Main Character, Street-Smart, Rebellious",https://openpsychometrics.org/tests/characters/test-resources/pics/FS/1.jpg
+Carl Grimes (The Walking Dead),WD7,"🤠, Young, Egalitarian, Love-Focused, Loyal, Devoted",https://openpsychometrics.org/tests/characters/test-resources/pics/WD/7.jpg
+Dr. Allison Cameron (House),H6,"On-Time, Not Genocidal, 👨‍⚕️, Studious, Beautiful, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/H/6.jpg
+Ian Duncan (Community),C10,"Nerd, Side Character, Dorky, Bookish, Weakass, Cheesy",https://openpsychometrics.org/tests/characters/test-resources/pics/C/10.jpg
+Zoe Washburne (Firefly + Serenity),FS5,"Badass, Pro, Competent, Devoted, Resourceful, Loyal",https://openpsychometrics.org/tests/characters/test-resources/pics/FS/5.jpg
+Flynn White (Breaking Bad),BB6,"Boy/Girl-Next-Door, Young, Stuttering, Slow-Talking, Family-First, English",https://openpsychometrics.org/tests/characters/test-resources/pics/BB/6.jpg
+Saul Goodman (Breaking Bad),BB7,"Money-Focused, Backdoor, Street-Smart, Chatty, Cocky, Forward-Thinking",https://openpsychometrics.org/tests/characters/test-resources/pics/BB/7.jpg
+Shane Walsh (The Walking Dead),WD2,"🏀, Stubborn, Masculine, Jock, Dog Person, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/WD/2.jpg
+Lori Grimes (The Walking Dead),WD3,"Dramatic, Straight, Gendered, Sexual, Two-Faced, 💀",https://openpsychometrics.org/tests/characters/test-resources/pics/WD/3.jpg
+Simon Tam (Firefly + Serenity),FS9,"Manicured, 👨‍⚕️, Bookish, Valedictorian, 🧠, High Iq",https://openpsychometrics.org/tests/characters/test-resources/pics/FS/9.jpg
+Bruce Wayne (The Dark Knight),DK1,"Rich, Celebrity, High-Tech, Motivated, Driven, 🦇",https://openpsychometrics.org/tests/characters/test-resources/pics/DK/1.jpg
+Dexter Morgan (Dexter),D1,"Diligent, Secretive, Confidential, Pointed, Main Character, Private, Guarded",https://openpsychometrics.org/tests/characters/test-resources/pics/D/1.jpg
+Alfred Pennyworth (The Dark Knight),DK2,"Loyal, Civilized, Devoted, English, Diligent, Self-Disciplined",https://openpsychometrics.org/tests/characters/test-resources/pics/DK/2.jpg
+Rita Bennett (Dexter),D2,"Feminine, Summer, Flower Child, Family-First, Beautiful, Gendered",https://openpsychometrics.org/tests/characters/test-resources/pics/D/2.jpg
+Harvey Dent (The Dark Knight),DK5,"Driven, Political, Diligent, Haunted, Intense, Active",https://openpsychometrics.org/tests/characters/test-resources/pics/DK/5.jpg
+Nymphadora Tonks (Harry Potter),HP29,"Adventurous, Feminist, Open To New Experinces, Loyal, Motivated, Badass",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/29.jpg
+Lucius Fox (The Dark Knight),DK7,"High Iq, High-Tech, Competent, Knowledgeable, Diligent, Genius",https://openpsychometrics.org/tests/characters/test-resources/pics/DK/7.jpg
+Olivia Benson (Law & Order: SVU),SVU1,"Main Character, Persistent, Diligent, Motivated, Competent, Driven, Important",https://openpsychometrics.org/tests/characters/test-resources/pics/SVU/1.jpg
+Odafin Tutuola (Law & Order: SVU),SVU5,"Street-Smart, Masculine, Badass, Devoted, Loyal, Straight",https://openpsychometrics.org/tests/characters/test-resources/pics/SVU/5.jpg
+Fleur Delacour (Harry Potter),HP14,"French, Feminine, Manicured, Eloquent, Civilized, Refined",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/14.jpg
+Maria LaGuerta (Dexter),D5,"Driven, Pointed, Two-Faced, Workaholic, Motivated, Ocd",https://openpsychometrics.org/tests/characters/test-resources/pics/D/5.jpg
+Elliot Stabler (Law & Order: SVU),SVU4,"Masculine, Straight, Workaholic, Assertive, Demanding, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/SVU/4.jpg
+James Doakes (Dexter),D4,"Motivated, Masculine, Demanding, Persistent, Dominant, Intense",https://openpsychometrics.org/tests/characters/test-resources/pics/D/4.jpg
+Donald Cragen (Law & Order: SVU),SVU3,"Mature, Captain, Non-Gamer, Gendered, Straight, Masculine",https://openpsychometrics.org/tests/characters/test-resources/pics/SVU/3.jpg
+Vince Masuka (Dexter),D8,"Sexual, Nerd, High-Tech, 🧠, Gamer, Bookish",https://openpsychometrics.org/tests/characters/test-resources/pics/D/8.jpg
+Jane Margolis (Breaking Bad),BB10,"Goth, Side Character, Punk Rock, 🎨, Liberal, Rebellious",https://openpsychometrics.org/tests/characters/test-resources/pics/BB/10.jpg
+Andrea (The Walking Dead),WD4,"Self-Destructive, Triggered, Dramatic, 💀, Stubborn, Rock",https://openpsychometrics.org/tests/characters/test-resources/pics/WD/4.jpg
+Marie Schrader (Breaking Bad),BB5,"Opinionated, Demanding, Manicured, Anxious, Tense, Gossiping, Offended",https://openpsychometrics.org/tests/characters/test-resources/pics/BB/5.jpg
+James Gordon (The Dark Knight),DK4,"Loyal, Heroic, Devoted, Diligent, Works Hard, Patriotic",https://openpsychometrics.org/tests/characters/test-resources/pics/DK/4.jpg
+Horace Slughorn (Harry Potter),HP17,"Bookish, Old, Side Character, Vintage, 🧠, Intellectual",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/17.jpg
+"Violet Crawley, Dowager Countess of Grantham (Downton Abbey)",DA15,"Opinionated, Privileged, Rich, Master, Badass, Ivory-Tower",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/15.jpg
+Dale Horvath (The Walking Dead),WD5,"Vintage, Old, Devoted, Gendered, Kind, Side Character",https://openpsychometrics.org/tests/characters/test-resources/pics/WD/5.jpg
+John Bates (Downton Abbey),DA5,"Devoted, Diligent, Loyal, Self-Disciplined, Perceptive, Modest",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/5.jpg
+John Munch (Law & Order: SVU),SVU2,"Intellectual, High Iq, Bookish, Vintage, Devoted, Never Cries",https://openpsychometrics.org/tests/characters/test-resources/pics/SVU/2.jpg
+Harry Morgan (Dexter),D7,"Confidential, Straight, Dramatic, Self-Disciplined, Serious, Demanding",https://openpsychometrics.org/tests/characters/test-resources/pics/D/7.jpg
+Morty Seinfeld (Seinfeld),SF5,"Side Character, Stingy, Low-Tech, Thrifty, Old, Frank",https://openpsychometrics.org/tests/characters/test-resources/pics/SF/5.jpg
+Thomas Barrow (Downton Abbey),DA11,"Competitive, Queer, Arrogant, Suspicious, Stubborn, Intense",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/11.jpg
+Charlie Carson (Downton Abbey),DA4,"Self-Disciplined, Diligent, Loyal, Orderly, Devoted, Scheduled",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/4.jpg
+Cornelius Fudge (Harry Potter),HP22,"Money-Focused, Punchable, Conventional, Political, Stick-In-The-Mud, Corporate",https://openpsychometrics.org/tests/characters/test-resources/pics/HP/22.jpg
+"Robert Crawley, 7th Earl of Grantham (Downton Abbey)",DA1,"Privileged, 🎩, Dog Person, Rich, English, Manicured",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/1.jpg
+Lady Mary Crawley (Downton Abbey),DA6,"Rich, Main Character, Cultured, Manicured, Stylish, Highbrow",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/6.jpg
+Rachel Dawes (The Dark Knight),DK6,"Diligent, Driven, Civilized, Valedictorian, Human, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/DK/6.jpg
+Anna Bates (Downton Abbey),DA8,"Kind, Diligent, Loyal, Devoted, Competent, Love-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/8.jpg
+Elsie Carson (Downton Abbey),DA9,"Competent, Diligent, Self-Disciplined, On-Time, Mature, Loyal",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/9.jpg
+Lady Sybil Crawley (Downton Abbey),DA2,"Love-Focused, Beautiful, Feminist, Persistent, Open To New Experinces, Not Genocidal",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/2.jpg
+"Cora Crawley, Countess of Grantham (Downton Abbey)",DA12,"Rich, Manicured, Civilized, 🎩, Stylish, Feminine",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/12.jpg
+Lady Edith Crawley (Downton Abbey),DA3,"Rich, English, Washed, Manicured, Cultured, Civilized",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/3.jpg
+Melinda Warner (Law & Order: SVU),SVU6,"Diligent, Competent, Valedictorian, Knowledgeable, High Iq, Coordinated, Feminist",https://openpsychometrics.org/tests/characters/test-resources/pics/SVU/6.jpg
+C. J. Cregg (The West Wing),WW6,"Competent, Diligent, Devoted, Tall, Persistent, Fast-Talking",https://openpsychometrics.org/tests/characters/test-resources/pics/WW/6.jpg
+Daenerys Targaryen (Game of Thrones),GOT3,"Main Character, Driven, Persistent, Motivated, Fire, Overachiever",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/3.jpg
+Daisy Mason (Downton Abbey),DA13,"Boy/Girl-Next-Door, Young, Blue-Collar, Country-Bumpkin, Rustic, Emotional",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/13.jpg
+Helen Seinfeld (Seinfeld),SF6,"Non-Gamer, Side Character, Straight, Low-Tech, Old, Basic",https://openpsychometrics.org/tests/characters/test-resources/pics/SF/6.jpg
+Beryl Patmore (Downton Abbey),DA14,"Good-Cook, Blue-Collar, Diligent, Devoted, Works Hard, Master",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/14.jpg
+Sarah O'Brien (Downton Abbey),DA7,"Side Character, Cynical, Guarded, Two-Faced, Judgemental, Secretive",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/7.jpg
+Cersei Lannister (Game of Thrones),GOT27,"Vengeful, Competitive, Ferocious, Bossy, Stubborn, Suspicious",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/27.jpg
+Joffrey Baratheon (Game of Thrones),GOT23,"Arrogant, Psychopath, Punchable, 😈, Selfish, Cruel, Entitled",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/23.jpg
+Powder (Arcane),ARC2,"Traumatized, Emotional, Outlaw, Spontaneous, Creative, Punk Rock",https://openpsychometrics.org/tests/characters/test-resources/pics/ARC/2.jpg
+Josh Lyman (The West Wing),WW3,"Political, Cocky, Persistent, Opinionated, Driven, Not Genocidal",https://openpsychometrics.org/tests/characters/test-resources/pics/WW/3.jpg
+Dolores Abernathy (Westworld),WSW1,"Motivated, Main Character, Persistent, Important, F***-The-Police, Badass",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/1.jpg
+Olenna Tyrell (Game of Thrones),GOT25,"Rich, Badass, Intellectual, Confident, Knowledgeable, Pro",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/25.jpg
+Ygritte (Game of Thrones),GOT26,"🧗, F***-The-Police, Bold, Wild, Badass, Ferocious",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/26.jpg
+Caitlyn Kiramman (Arcane),ARC4,"Rich, Studious, Beautiful, Fresh, Diligent, Queer",https://openpsychometrics.org/tests/characters/test-resources/pics/ARC/4.jpg
+Robert Ford (Westworld),WSW9,"High Iq, 🧠, Motivated, Rich, Intellectual, Driven",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/9.jpg
+The Operative (Firefly + Serenity),FS10,"Motivated, Diligent, Self-Disciplined, Driven, Coordinated, Strict, On-Time",https://openpsychometrics.org/tests/characters/test-resources/pics/FS/10.jpg
+Leo McGarry (The West Wing),WW2,"Workaholic, Motivated, Loyal, Competent, Important, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/WW/2.jpg
+Sal Maroni (The Dark Knight),DK10,"Arrogant, Punchable, Poisonous, Rich, Narcissistic, Villainous",https://openpsychometrics.org/tests/characters/test-resources/pics/DK/10.jpg
+Vi (Arcane),ARC1,"Queer, F***-The-Police, Motivated, 👩‍🎤, 🏋️‍♂️, Driven",https://openpsychometrics.org/tests/characters/test-resources/pics/ARC/1.jpg
+Jorah Mormont (Game of Thrones),GOT8,"Diligent, Love-Focused, Devoted, Persistent, Motivated, Workaholic",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/8.jpg
+Petyr Baelish (Game of Thrones),GOT10,"Two-Faced, Suspicious, Selfish, Political, Perverted, Cunning",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/10.jpg
+Vander (Arcane),ARC9,"🥾, 🏋️‍♂️, Egalitarian, Clean, Love-Focused, Scruffy",https://openpsychometrics.org/tests/characters/test-resources/pics/ARC/9.jpg
+Arya Stark (Game of Thrones),GOT5,"🤺, Adventurous, Independent, Resourceful, Feminist, Active, Rebellious, 🧗",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/5.jpg
+Margaery Tyrell (Game of Thrones),GOT19,"Beautiful, Perceptive, Rich, Charming, Driven, Attractive, Rhythmic",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/19.jpg
+Josiah Bartlet (The West Wing),WW1,"Valedictorian, Captain, High Iq, Knowledgeable, Driven, Charismatic",https://openpsychometrics.org/tests/characters/test-resources/pics/WW/1.jpg
+Brienne of Tarth (Game of Thrones),GOT14,"Diligent, Loyal, Tall, 🤺, Badass, Devoted",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/14.jpg
+Tyrion Lannister (Game of Thrones),GOT2,"Perceptive, Intellectual, High Iq, Short, 🧠, Funny",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/2.jpg
+Jaime Lannister (Game of Thrones),GOT6,"Rich, Sporty, Privileged, Jock, Sexual, Cocky",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/6.jpg
+Bernard Lowe (Westworld),WSW3,"Studious, Bookish, High-Tech, High Iq, Nerd, Serious",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/3.jpg
+Tywin Lannister (Game of Thrones),GOT18,"Privileged, Hard, Political, Serious, Dominant, Rich, Bossy",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/18.jpg
+Charlie Young (The West Wing),WW7,"Not Genocidal, Diligent, Loyal, Respectful, Loveable, Competent",https://openpsychometrics.org/tests/characters/test-resources/pics/WW/7.jpg
+Toby Ziegler (The West Wing),WW4,"Frank, Intellectual, 🧠, Vintage, High Iq, Political",https://openpsychometrics.org/tests/characters/test-resources/pics/WW/4.jpg
+Viktor (Arcane),ARC5,"🧠, High-Tech, Workaholic, Bookish, High Iq, 👩‍🔬",https://openpsychometrics.org/tests/characters/test-resources/pics/ARC/5.jpg
+Samwell Tarly (Game of Thrones),GOT7,"Kind, Bookish, Loyal, 😇, Nerd, Devoted",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/7.jpg
+Maeve Millay (Westworld),WSW2,"F***-The-Police, Perceptive, Persistent, Badass, 🤺, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/2.jpg
+Donna Moss (The West Wing),WW8,"Loyal, Devoted, Motivated, Persistent, Kind, Not Genocidal",https://openpsychometrics.org/tests/characters/test-resources/pics/WW/8.jpg
+Brandon Stark (Game of Thrones),GOT13,"Intellectual, 🧠, Asexual, Reserved, Serious, Quiet",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/13.jpg
+Abbey Bartlet (The West Wing),WW9,"Valedictorian, Persistent, Knowledgeable, High Iq, Devoted, Competent",https://openpsychometrics.org/tests/characters/test-resources/pics/WW/9.jpg
+Ekko (Arcane),ARC10,"Street-Smart, F***-The-Police, Oppressed, 😎, Driven, High-Tech",https://openpsychometrics.org/tests/characters/test-resources/pics/ARC/10.jpg
+Jayce Talis (Arcane),ARC3,"Privileged, Driven, High-Tech, Sheltered, Gendered, Scientific, City-Slicker",https://openpsychometrics.org/tests/characters/test-resources/pics/ARC/3.jpg
+Piper Chapman (Orange is the New Black),ONB1,"Privileged, Sexual, Flower Child, Demanding, Tense, Opinionated",https://openpsychometrics.org/tests/characters/test-resources/pics/ONB/1.jpg
+Jon Snow (Game of Thrones),GOT1,"Main Character, Winter, Persistent, Dramatic, Diligent, Devoted",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/1.jpg
+Eddard Stark (Game of Thrones),GOT12,"Loyal, Honorable, One-Faced, Heroic, Genuine, Masculine, Patriotic",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/12.jpg
+Man in Black (Westworld),WSW8,"Motivated, Stubborn, Competitive, Secretive, Goth, Masculine, Dominant, Gloomy",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/8.jpg
+Charlotte Hale (Westworld),WSW11,"Driven, Persistent, Bossy, Work-First, Overachiever, Rich",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/11.jpg
+Sansa Stark (Game of Thrones),GOT4,"Beautiful, Manicured, 🐩, Serious, Tense, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/4.jpg
+Theon Greyjoy (Game of Thrones),GOT9,"Traumatized, Haunted, Sad, Desperate, Miserable, Unlucky",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/9.jpg
+Sandor Clegane (Game of Thrones),GOT15,"F***-The-Police, Masculine, Scruffy, Rugged, Tall, Guarded",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/15.jpg
+Varys (Game of Thrones),GOT16,"Intellectual, Perceptive, Secretive, Bookish, Alert, 🧠",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/16.jpg
+Catelyn Stark (Game of Thrones),GOT17,"Family-First, Love-Focused, Clean, Devoted, Straight, Loyal",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/17.jpg
+Sam Seaborn (The West Wing),WW5,"Political, Valedictorian, Attractive, Beautiful, High Iq, Healthy, Motivated, Washed",https://openpsychometrics.org/tests/characters/test-resources/pics/WW/5.jpg
+Alex Vause (Orange is the New Black),ONB2,"Queer, Perceptive, Tall, Dominant, Atheist, Fire, Punk Rock",https://openpsychometrics.org/tests/characters/test-resources/pics/ONB/2.jpg
+Joey Quinn (Dexter),D10,"Sexual, Jock, Gendered, Arrogant, Straight, Masculine",https://openpsychometrics.org/tests/characters/test-resources/pics/D/10.jpg
+Roger Sterling (Mad Men),MM11,"Sexual, Privileged, Rich, Extravagant, Lustful, Cocky",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/11.jpg
+Robb Stark (Game of Thrones),GOT20,"Love-Focused, Dog Person, Heroic, Beautiful, Active, Soulful",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/20.jpg
+Bronn (Game of Thrones),GOT21,"Money-Focused, Street-Smart, Masculine, Rugged, Bold, Sporty",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/21.jpg
+Teddy Flood (Westworld),WSW4,"Loyal, Devoted, Rural, Chivalrous, Genuine, 🥾, Love-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/4.jpg
+Nicky Nichols (Orange is the New Black),ONB7,"Queer, F***-The-Police, Flirtatious, Sexual, Punk Rock, Fire",https://openpsychometrics.org/tests/characters/test-resources/pics/ONB/7.jpg
+Davos Seaworth (Game of Thrones),GOT11,"Loyal, Diligent, Reasonable, Devoted, Modest, Reliable",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/11.jpg
+Crazy Eyes (Orange is the New Black),ONB5,"Weird, Imaginative, Abstract, Extreme, Expressive, Oppressed",https://openpsychometrics.org/tests/characters/test-resources/pics/ONB/5.jpg
+Melisandre (Game of Thrones),GOT24,"Spiritual, 🧙, Bold, Work-First, Extreme, Intense, 🎨",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/24.jpg
+Cecil B. Heimerdinger (Arcane),ARC8,"Bookish, Short, Old, Scientific, Intellectual, Orderly",https://openpsychometrics.org/tests/characters/test-resources/pics/ARC/8.jpg
+Sam Healy (Orange is the New Black),ONB3,"Weakass, Miserable, Basic, Privileged, Old, Gendered",https://openpsychometrics.org/tests/characters/test-resources/pics/ONB/3.jpg
+Red Reznikov (Orange is the New Black),ONB4,"Russian, Dominant, Badass, Fire, Queen, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/ONB/4.jpg
+Lumiere (Beauty and the Beast),BATB5,"French, 🌟, Romantic, Charismatic, Fire, Warm, Musical",https://openpsychometrics.org/tests/characters/test-resources/pics/BATB/5.jpg
+Clementine Pennyfeather (Westworld),WSW13,"Feminine, Oppressed, First-Mate, Intimate, Beautiful, Traumatized",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/13.jpg
+Asha Greyjoy (Game of Thrones),GOT30,"Dominant, Persistent, Never Cries, Assertive, Badass, Bossy",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/30.jpg
+Lorna Morello (Orange is the New Black),ONB9,"Emotional, Romantic, Emotional, Italian, Fantastical, Chatty",https://openpsychometrics.org/tests/characters/test-resources/pics/ONB/9.jpg
+Pennsatucky Doggett (Orange is the New Black),ONB8,"Opinionated, Poor, Country-Bumpkin, Scruffy, Rugged, Drop Out",https://openpsychometrics.org/tests/characters/test-resources/pics/ONB/8.jpg
+Felix Lutz (Westworld),WSW15,"Nerd, Submissive, Side Character, Technophile, Human, Bookish",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/15.jpg
+Beast (Beauty and the Beast),BATB6,"Masculine, Tall, Reclusive, Rich, Secretive, Guarded",https://openpsychometrics.org/tests/characters/test-resources/pics/BATB/6.jpg
+Gaston (Beauty and the Beast),BATB2,"💪, Punchable, Competitive, Arrogant, Cocky, Loud",https://openpsychometrics.org/tests/characters/test-resources/pics/BATB/2.jpg
+Stannis Baratheon (Game of Thrones),GOT22,"Serious, Gloomy, Tense, Side Character, Distant, Humorless",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/22.jpg
+Rebecca Bunch (Craze Ex-Girlfriend),CXG1,"Dramatic, Main Character, Impulsive, Overachiever, Love-Focused, Expressive",https://openpsychometrics.org/tests/characters/test-resources/pics/CXG/1.jpg
+Oberyn Martell (Game of Thrones),GOT29,"Sexual, Bold, Rich, Confident, Playful, Open To New Experinces",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/29.jpg
+Shae (Game of Thrones),GOT28,"Feminine, Summer, Lustful, Side Character, Backdoor, Sexual",https://openpsychometrics.org/tests/characters/test-resources/pics/GOT/28.jpg
+Ciri (The Witcher),TWCH2,"Important, Beautiful, Persistent, Treasure, Motivated, Active",https://openpsychometrics.org/tests/characters/test-resources/pics/TWCH/2.jpg
+Jaskier (The Witcher),TWCH9,"Chatty, Liberal, Loud, Expressive, Spontaneous, Social",https://openpsychometrics.org/tests/characters/test-resources/pics/TWCH/9.jpg
+Belle (Beauty and the Beast),BATB1,"Bookish, Kind, Beautiful, Soulful, 🎨, Main Character",https://openpsychometrics.org/tests/characters/test-resources/pics/BATB/1.jpg
+William Mason (Downton Abbey),DA10,"Young, Boy/Girl-Next-Door, Kind, Apprentice, Clean, Genuine",https://openpsychometrics.org/tests/characters/test-resources/pics/DA/10.jpg
+Taystee Jefferson (Orange is the New Black),ONB6,"Oppressed, Badass, Devoted, Bold, Feminist, Funny",https://openpsychometrics.org/tests/characters/test-resources/pics/ONB/6.jpg
+Elsie Hughes (Westworld),WSW7,"Persistent, High-Tech, Not Genocidal, Technophile, Diligent, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/7.jpg
+Peggy Olson (Mad Men),MM2,"Driven, Diligent, Competent, Workaholic, Work-First, Important",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/2.jpg
+Betty Draper (Mad Men),MM4,"Manicured, Gendered, Feminine, Stylish, Chic, Dramatic",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/4.jpg
+Don Draper (Mad Men),MM1,"Main Character, Secretive, Charming, Charismatic, Sexual, Lustful",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/1.jpg
+Joan Holloway (Mad Men),MM5,"Stylish, Pro, Manicured, Competent, Beautiful, Charming",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/5.jpg
+Thomas Matthews (Dexter),D9,"Earth, Never Cries, Masculine, Realistic, 🐴, Businesslike, Unemotional",https://openpsychometrics.org/tests/characters/test-resources/pics/D/9.jpg
+Joey Lucas (The West Wing),WW10,"Knowledgeable, Go-Getter, Competent, Valedictorian, High Iq, Resourceful",https://openpsychometrics.org/tests/characters/test-resources/pics/WW/10.jpg
+Silco (Arcane),ARC6,"🦇, Motivated, Goth, Haunted, Reclusive, Rebellious",https://openpsychometrics.org/tests/characters/test-resources/pics/ARC/6.jpg
+Ashley Stubbs (Westworld),WSW5,"Doer, Masculine, Practical, Diligent, Self-Disciplined, Sporty",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/5.jpg
+Bertram Gilfoyle (Silicon Valley),SV4,"Never Cries, High Iq, Technophile, High-Tech, F***-The-Police, Goth",https://openpsychometrics.org/tests/characters/test-resources/pics/SV/4.jpg
+Josh Chan (Craze Ex-Girlfriend),CXG3,"Summer, Sporty, Physical, 💪, Goof-Off, Flower Child",https://openpsychometrics.org/tests/characters/test-resources/pics/CXG/3.jpg
+Mel Medarda (Arcane),ARC7,"Manicured, Rich, Stylish, Cat Person, 🧠, Charming",https://openpsychometrics.org/tests/characters/test-resources/pics/ARC/7.jpg
+Geralt of Rivia (The Witcher),TWCH1,"Main Character, Stoic, Competent, Persistent, Badass, Guarded",https://openpsychometrics.org/tests/characters/test-resources/pics/TWCH/1.jpg
+Flaca Gonzales (Orange is the New Black),ONB10,"💃, F***-The-Police, Flirtatious, Young, Gossiping, Spicy",https://openpsychometrics.org/tests/characters/test-resources/pics/ONB/10.jpg
+Logan Delos (Westworld),WSW14,"Entitled, Arrogant, 💃, Indulgent, Sexist, Lustful, Vain",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/14.jpg
+Triss (The Witcher),TWCH8,"Perceptive, Beautiful, Egalitarian, Love-Focused, Feminine, 🧠",https://openpsychometrics.org/tests/characters/test-resources/pics/TWCH/8.jpg
+Anthony Garcia (The Dark Knight),DK8,"Side Character, Political, Serious, Non-Gamer, City-Slicker, Money-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/DK/8.jpg
+Harry Crane (Mad Men),MM9,"Side Character, Hypochondriac, Bookish, First-Mate, Nerd, Pensive",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/9.jpg
+Jared Dunn (Silicon Valley),SV8,"Diligent, On-Time, Loyal, Giving, Accommodating, Workaholic",https://openpsychometrics.org/tests/characters/test-resources/pics/SV/8.jpg
+Pete Campbell (Mad Men),MM3,"Preppy, Entitled, Arrogant, Punchable, 🤑, Competitive, Two-Faced",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/3.jpg
+Lau (The Dark Knight),DK9,"Privileged, Rich, Manicured, City-Slicker, Intellectual, Work-First",https://openpsychometrics.org/tests/characters/test-resources/pics/DK/9.jpg
+Lee Sizemore (Westworld),WSW6,"Urban, Chatty, Arrogant, Side Character, Fast-Talking, Privileged",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/6.jpg
+Roy Kent (Ted Lasso),TL5,"Frank, Intense, Badass, Private, Stubborn, Literal",https://openpsychometrics.org/tests/characters/test-resources/pics/TL/5.jpg
+Dinesh Chugtai (Silicon Valley),SV5,"Nerd, Technophile, High-Tech, Bookish, 🧠, Mathematical",https://openpsychometrics.org/tests/characters/test-resources/pics/SV/5.jpg
+Gavin Belson (Silicon Valley),SV9,"Competitive, Privileged, Arrogant, Interrupting, Bossy, Work-First",https://openpsychometrics.org/tests/characters/test-resources/pics/SV/9.jpg
+Maurice (Beauty and the Beast),BATB3,"🎨, Short, Nerd, Bookish, 👨‍🔧, Kind",https://openpsychometrics.org/tests/characters/test-resources/pics/BATB/3.jpg
+Nathan Shelley (Ted Lasso),TL7,"Insecure, Hurried, 💩, Short, Awkward, Jealous",https://openpsychometrics.org/tests/characters/test-resources/pics/TL/7.jpg
+Sam Obisanya (Ted Lasso),TL10,"Kind, 🙋‍♂️, Treasure, Angelic, Romantic, Generous",https://openpsychometrics.org/tests/characters/test-resources/pics/TL/10.jpg
+Bert Cooper (Mad Men),MM12,"Rich, Privileged, Old, Master, 🎩, Ivory-Tower",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/12.jpg
+Cogsworth (Beauty and the Beast),BATB4,"Wooden, Short, On-Time, Vintage, Scheduled, Bookish",https://openpsychometrics.org/tests/characters/test-resources/pics/BATB/4.jpg
+Istredd (The Witcher),TWCH10,"Scholarly, Valedictorian, 👩‍🔬, Interested, Historical, Love-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/TWCH/10.jpg
+Jian-Yang (Silicon Valley),SV10,"F***-The-Police, Receiving, Freelance, Backdoor, Trolling, Money-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/SV/10.jpg
+Paula Proctor (Craze Ex-Girlfriend),CXG2,"Involved, Persistent, Competent, Diligent, Loyal, Driven",https://openpsychometrics.org/tests/characters/test-resources/pics/CXG/2.jpg
+Richard Hendricks (Silicon Valley),SV1,"Nerd, Bookish, Technophile, Intellectual, Anxious, Tense",https://openpsychometrics.org/tests/characters/test-resources/pics/SV/1.jpg
+Yennefer (The Witcher),TWCH3,"🧙, Persistent, Important, Badass, Purple, F***-The-Police, Complicated",https://openpsychometrics.org/tests/characters/test-resources/pics/TWCH/3.jpg
+Lane Pryce (Mad Men),MM14,"Nerd, Bookish, Valedictorian, Tailor, Intellectual, Formal",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/14.jpg
+Tissaia (The Witcher),TWCH6,"Coordinated, Secretive, Master, Manicured, 🧙, Studious",https://openpsychometrics.org/tests/characters/test-resources/pics/TWCH/6.jpg
+Nelson Bighetti (Silicon Valley),SV3,"Leisurely, Passive, Neutral, Lenient, Slugabed, Submissive",https://openpsychometrics.org/tests/characters/test-resources/pics/SV/3.jpg
+Bob Belcher (Bob's Burgers),BOBB1,"Slovenly, Devoted, Loyal, Cheesy, Scruffy, 🛌",https://openpsychometrics.org/tests/characters/test-resources/pics/BOBB/1.jpg
+Rebecca Welton (Ted Lasso),TL2,"Badass, Captain, Motivated, City-Slicker, Stylish, Eloquent",https://openpsychometrics.org/tests/characters/test-resources/pics/TL/2.jpg
+Erlich Bachman (Silicon Valley),SV2,"Cocky, Loud, Arrogant, Exaggerating, Exuberant, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/SV/2.jpg
+Salvatore Romano (Mad Men),MM6,"Italian, Manicured, Queer, 🦄, Stylish, 🎩",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/6.jpg
+Akecheta (Westworld),WSW12,"Pro, F***-The-Police, Giving, 🤺, Oppressed, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/12.jpg
+Liz Lemon (30 Rock),R301,"Nerd, Bookish, Main Character, Opinionated, Work-First, Tense",https://openpsychometrics.org/tests/characters/test-resources/pics/R30/1.jpg
+Monica Hall (Silicon Valley),SV7,"Manicured, Beautiful, Go-Getter, Urban, Driven, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/SV/7.jpg
+Ken Cosgrove (Mad Men),MM8,"Side Character, Privileged, Manicured, Reasonable, Swedish, Boy/Girl-Next-Door",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/8.jpg
+Louise Belcher (Bob's Burgers),BOBB5,"Adventurous, Mischievous, Rebellious, Chaotic, Badass, Loud",https://openpsychometrics.org/tests/characters/test-resources/pics/BOBB/5.jpg
+Jamie Tartt (Ted Lasso),TL4,"Jock, Overspender, English, Sporty, 👟, Flamboyant",https://openpsychometrics.org/tests/characters/test-resources/pics/TL/4.jpg
+Jack Donaghy (30 Rock),R305,"Rich, Gendered, Privileged, Driven, Dominant, Cocky, Corporate",https://openpsychometrics.org/tests/characters/test-resources/pics/R30/5.jpg
+Fringilla (The Witcher),TWCH4,"Coordinated, Self-Disciplined, Overachiever, Persistent, Intellectual, 🧙",https://openpsychometrics.org/tests/characters/test-resources/pics/TWCH/4.jpg
+Dara (The Witcher),TWCH7,"Clean, Poor, Proletariat, Oppressed, Side Character, First-Mate, Young",https://openpsychometrics.org/tests/characters/test-resources/pics/TWCH/7.jpg
+Ted Lasso (Ted Lasso),TL1,"Optimistic, Main Character, Warm, Charismatic, Good-Humored, Persistent, Accepting",https://openpsychometrics.org/tests/characters/test-resources/pics/TL/1.jpg
+Paul Kinsey (Mad Men),MM7,"Side Character, 🎨, Bookish, Intellectual, Political, Everyman",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/7.jpg
+Linda Belcher (Bob's Burgers),BOBB2,"Chatty, Loud, Sunny, 😜, Expressive, Touchy-Feely",https://openpsychometrics.org/tests/characters/test-resources/pics/BOBB/2.jpg
+Leslie Higgins (Ted Lasso),TL3,"Nerd, Civilized, Humble, Forgiving, Devoted, Loyal, Nurturing",https://openpsychometrics.org/tests/characters/test-resources/pics/TL/3.jpg
+Stan Rizzo (Mad Men),MM15,"🎨, Open To New Experinces, Artistic, Rock, Indie, Folksy",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/15.jpg
+Henry Francis (Mad Men),MM13,"Valedictorian, Privileged, Side Character, Rich, Preppy, Concise",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/13.jpg
+Theresa Cullen (Westworld),WSW10,"Businesslike, Valedictorian, Rich, Serious, Driven, Formal",https://openpsychometrics.org/tests/characters/test-resources/pics/WSW/10.jpg
+Cahir (The Witcher),TWCH5,"Demanding, Sorrowful, Miserable, Cold, Monochrome, Strict",https://openpsychometrics.org/tests/characters/test-resources/pics/TWCH/5.jpg
+Kenneth Parcell (30 Rock),R303,"Devoted, On-Time, Workaholic, Optimistic, Loyal, Genuine",https://openpsychometrics.org/tests/characters/test-resources/pics/R30/3.jpg
+Klaus Hargreeves (The Umbrella Academy),UA5,"Spontaneous, Chaotic, Queer, Disorganized, 🦄, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/UA/5.jpg
+Keeley Jones (Ted Lasso),TL8,"Feminist, Stylish, Not Genocidal, 🦄, Chatty, 🐩",https://openpsychometrics.org/tests/characters/test-resources/pics/TL/8.jpg
+Rachel Menken (Mad Men),MM10,"Manicured, Rich, Stylish, Urban, Eloquent, Cosmopolitan",https://openpsychometrics.org/tests/characters/test-resources/pics/MM/10.jpg
+Bobby Briggs (Twin Peaks),TP4,"Drop Out, Rebellious, Impatient, Mischievous, Cocky, Stubborn",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/4.jpg
+Tina Belcher (Bob's Burgers),BOBB3,"Nerd, Awkward, Bookish, Awkward, Love-Focused, Weird",https://openpsychometrics.org/tests/characters/test-resources/pics/BOBB/3.jpg
+Dale Cooper (Twin Peaks),TP1,"Perceptive, Persistent, Curious, Diligent, Pro, Treasure",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/1.jpg
+Leland Palmer (Twin Peaks),TP11,"Self-Destructive, Crazy, Moody, Traumatized, Two-Faced, Haunted, Twitchy",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/11.jpg
+Luther Hargreeves (The Umbrella Academy),UA2,"Tall, 🏋️‍♂️, Masculine, 💪, Straight, Thick",https://openpsychometrics.org/tests/characters/test-resources/pics/UA/2.jpg
+Diego Hargreeves (The Umbrella Academy),UA3,"🤺, Stubborn, Hunter, Competitive, Active, 🧗",https://openpsychometrics.org/tests/characters/test-resources/pics/UA/3.jpg
+Vanya Hargreeves (The Umbrella Academy),UA1,"Introvert, 🎨, Bookish, Nerd, Reclusive, Reserved",https://openpsychometrics.org/tests/characters/test-resources/pics/UA/1.jpg
+Coach Beard (Ted Lasso),TL6,"Pro, Competent, Loyal, Direct, Badass, Egalitarian",https://openpsychometrics.org/tests/characters/test-resources/pics/TL/6.jpg
+Peter Gregory (Silicon Valley),SV6,"Rich, Bookish, Asexual, Nerd, Intellectual, High Iq",https://openpsychometrics.org/tests/characters/test-resources/pics/SV/6.jpg
+Josie Packard (Twin Peaks),TP12,"Manicured, Stylish, Secretive, Beautiful, Dramatic, Guarded",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/12.jpg
+Bree Van de Kamp (Desperate Housewives),DH3,"Good-Cook, Neat, Scheduled, Manicured, Tense, On-Time",https://openpsychometrics.org/tests/characters/test-resources/pics/DH/3.jpg
+Allison Hargreeves (The Umbrella Academy),UA4,"Beautiful, Egalitarian, Feminist, Rich, Manicured, Feminine",https://openpsychometrics.org/tests/characters/test-resources/pics/UA/4.jpg
+Marshall Eriksen (How I Met Your Mother),HIMYM2,"Tall, Loyal, Kind, 💝, Romantic, Emotional",https://openpsychometrics.org/tests/characters/test-resources/pics/HIMYM/2.jpg
+Aaron Hotchner (Criminal Minds),CM5,"On-Time, Masculine, Workaholic, Diligent, Coordinated, Motivated, Self-Disciplined, Pro",https://openpsychometrics.org/tests/characters/test-resources/pics/CM/5.jpg
+Lincoln Rice (Broad City),BDC3,"Not Genocidal, 👨‍⚕️, Egalitarian, English, Loveable, One-Faced",https://openpsychometrics.org/tests/characters/test-resources/pics/BDC/3.jpg
+Carl Gallagher (Shameless),SHL2,"Mischievous, F***-The-Police, Beautiful, Attractive, 😎, Street-Smart",https://openpsychometrics.org/tests/characters/test-resources/pics/SHL/2.jpg
+Sheriff Truman (Twin Peaks),TP2,"Loyal, Heroic, 🤠, Provincial, Vintage, Love-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/2.jpg
+Audrey Horne (Twin Peaks),TP6,"Extravagant, Cat Person, Sexual, Flirtatious, Adventurous, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/6.jpg
+Gene Belcher (Bob's Burgers),BOBB4,"Messy, Goof-Off, 😜, Good-Humored, Loud, Lenient",https://openpsychometrics.org/tests/characters/test-resources/pics/BOBB/4.jpg
+Schmidt (New Girl),NG3,"Neat, Manicured, Preppy, Competitive, Extravagant, City-Slicker",https://openpsychometrics.org/tests/characters/test-resources/pics/NG/3.jpg
+Ed Hurley (Twin Peaks),TP9,"Blue-Collar, 👨‍🔧, Proletariat, Provincial, Modest, Masculine",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/9.jpg
+Winston Bishop (New Girl),NG5,"Loyal, Egalitarian, Kind, Devoted, Soulful, Funny",https://openpsychometrics.org/tests/characters/test-resources/pics/NG/5.jpg
+Lynette Scavo (Desperate Housewives),DH2,"Overachiever, Persistent, Opinionated, Tense, Badass, Bossy",https://openpsychometrics.org/tests/characters/test-resources/pics/DH/2.jpg
+Barney Stinson (How I Met Your Mother),HIMYM4,"Sexual, Bold, Flirtatious, Extrovert, City-Slicker, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/HIMYM/4.jpg
+Norma Jennings (Twin Peaks),TP7,"Attractive, Good-Cook, Civilized, Beautiful, Gendered, Fresh",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/7.jpg
+Lucy Moran (Twin Peaks),TP14,"Feminine, Blissful, Folksy, Kind, Not Genocidal, Chatty, 🐿",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/14.jpg
+Edie Britt (Desperate Housewives),DH5,"Bold, Competitive, Demanding, Feminine, Flamboyant, Flirtatious",https://openpsychometrics.org/tests/characters/test-resources/pics/DH/5.jpg
+Dr. Sharon Fieldstone (Ted Lasso),TL9,"Competent, Legit, Studious, Sane, Factual, Confidential",https://openpsychometrics.org/tests/characters/test-resources/pics/TL/9.jpg
+Kevin Ball (Shameless),SHL5,"Sexual, 💪, F***-The-Police, Tall, Funny, Punk Rock",https://openpsychometrics.org/tests/characters/test-resources/pics/SHL/5.jpg
+Gabrielle Solis (Desperate Housewives),DH4,"Sexual, Beautiful, Opinionated, Feminine, Cocky, Extrovert",https://openpsychometrics.org/tests/characters/test-resources/pics/DH/4.jpg
+Robin Scherbatsky (How I Met Your Mother),HIMYM3,"Attractive, Beautiful, Competitive, Independent, Badass, Child Free",https://openpsychometrics.org/tests/characters/test-resources/pics/HIMYM/3.jpg
+Donna Hayward (Twin Peaks),TP15,"Emotional, Beautiful, Young, Attractive, Sexual, Dramatic",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/15.jpg
+Pete Martell (Twin Peaks),TP10,"Vintage, Provincial, Rural, Country-Bumpkin, Low-Tech, Folksy",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/10.jpg
+Lily Aldrin (How I Met Your Mother),HIMYM5,"Artistic, 🎨, Expressive, Chatty, Sexual, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/HIMYM/5.jpg
+Carlos Solis (Desperate Housewives),DH6,"Sexual, Gendered, 🏀, Driven, Masculine, Workaholic",https://openpsychometrics.org/tests/characters/test-resources/pics/DH/6.jpg
+James Hurley (Twin Peaks),TP8,"Love-Focused, Rock, Princess, Emotional, Blue-Collar, 👨‍🔧",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/8.jpg
+Nick Miller (New Girl),NG2,"Freelance, Funny, 🛌, Messy, Scruffy, Tardy, Slovenly",https://openpsychometrics.org/tests/characters/test-resources/pics/NG/2.jpg
+Shelly Johnson (Twin Peaks),TP3,"Beautiful, Attractive, Gendered, Feminine, Young, Not Genocidal",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/3.jpg
+Benjamin Horne (Twin Peaks),TP5,"Privileged, Rich, Two-Faced, Narcissistic, Salacious, Businesslike",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/5.jpg
+Mike Delfino (Desperate Housewives),DH9,"Dog Person, 🧢, 👨‍🔧, Gendered, Masculine, Straight",https://openpsychometrics.org/tests/characters/test-resources/pics/DH/9.jpg
+Ted Mosby (How I Met Your Mother),HIMYM1,"Love-Focused, Emotional, Nerd, Bookish, Sensitive, Romantic",https://openpsychometrics.org/tests/characters/test-resources/pics/HIMYM/1.jpg
+Tracy Jordan (30 Rock),R302,"Chaotic, Loud, Bold, Spontaneous, Exuberant, Celebrity",https://openpsychometrics.org/tests/characters/test-resources/pics/R30/2.jpg
+Jenna Maroney (30 Rock),R306,"Dramatic, Vain, Extrovert, Entitled, Extravagant, Flamboyant",https://openpsychometrics.org/tests/characters/test-resources/pics/R30/6.jpg
+Frank Gallagher (Shameless),SHL1,"Stinky, Outlaw, Chaotic, Indulgent, Messy, Poor",https://openpsychometrics.org/tests/characters/test-resources/pics/SHL/1.jpg
+Jess Day (New Girl),NG1,"Kind, 🎨, 🦄, Flower Child, Emotional, Expressive",https://openpsychometrics.org/tests/characters/test-resources/pics/NG/1.jpg
+Ben Hargreeves (The Umbrella Academy),UA6,"Egalitarian, 👻, 🌟, Perceptive, Beautiful, Empath",https://openpsychometrics.org/tests/characters/test-resources/pics/UA/6.jpg
+Cece Parekh (New Girl),NG4,"Beautiful, Stylish, Attractive, Fresh, Sexual, Egalitarian",https://openpsychometrics.org/tests/characters/test-resources/pics/NG/4.jpg
+Julie Mayer (Desperate Housewives),DH7,"Emotional, Civilized, Feminine, 🎨, Boy/Girl-Next-Door, Flower Child",https://openpsychometrics.org/tests/characters/test-resources/pics/DH/7.jpg
+Lip Gallagher (Shameless),SHL3,"F***-The-Police, High Iq, Sexual, Street-Smart, Straight, Masculine",https://openpsychometrics.org/tests/characters/test-resources/pics/SHL/3.jpg
+Tom Scavo (Desperate Housewives),DH10,"Sensitive, Gendered, Boy/Girl-Next-Door, 🧢, Basic, Cheesy, Flower Child",https://openpsychometrics.org/tests/characters/test-resources/pics/DH/10.jpg
+Susan Mayer (Desperate Housewives),DH1,"Emotional, Bad-Cook, Emotional, Often Crying, Family-First, Love-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/DH/1.jpg
+Veronica Fisher (Shameless),SHL4,"Sexual, Bold, Badass, Beautiful, 💃, Street-Smart, Confident",https://openpsychometrics.org/tests/characters/test-resources/pics/SHL/4.jpg
+Jennifer Jareau (Criminal Minds),CM3,"Beautiful, Attractive, Motivated, Valedictorian, Feminist, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/CM/3.jpg
+Debbie Gallagher (Shameless),SHL6,"Emotional, Stubborn, Scandalous, Impulsive, Rebellious, 💃",https://openpsychometrics.org/tests/characters/test-resources/pics/SHL/6.jpg
+Natalie (Yellowjackets),YJ4,"Contrarian, F***-The-Police, Rock, Punk Rock, Outlaw, Hunter",https://openpsychometrics.org/tests/characters/test-resources/pics/YJ/4.jpg
+Catherine Martell (Twin Peaks),TP13,"Selfish, Quarrelsome, Bossy, Vengeful, Suspicious, Competitive",https://openpsychometrics.org/tests/characters/test-resources/pics/TP/13.jpg
+Fiona Gallagher (Shameless),SHL8,"Street-Smart, F***-The-Police, Sexual, Badass, Bold, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/SHL/8.jpg
+Pete Hornberger (30 Rock),R304,"Scruffy, Everyman, Slovenly, Mundane, Low Self Esteem, Depressed",https://openpsychometrics.org/tests/characters/test-resources/pics/R30/4.jpg
+Derek Morgan (Criminal Minds),CM6,"Masculine, Loyal, Charming, Motivated, Active, Egalitarian",https://openpsychometrics.org/tests/characters/test-resources/pics/CM/6.jpg
+Claire Standish (The Breakfast Club),BC2,"Feminine, Preppy, 🐩, Manicured, Rich, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/BC/2.jpg
+Mary Alice Young (Desperate Housewives),DH8,"Good-Cook, Family-First, Secretive, Manicured, 💀, Sad",https://openpsychometrics.org/tests/characters/test-resources/pics/DH/8.jpg
+John Bender (The Breakfast Club),BC1,"Rebellious, F***-The-Police, Punk Rock, Mischievous, Outlaw, Scandalous",https://openpsychometrics.org/tests/characters/test-resources/pics/BC/1.jpg
+Max Mayfield (Stranger Things),ST12,"Beautiful, Egalitarian, Feminist, Badass, Fire, Adventurous",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/12.jpg
+William Adama (Battlestar Galactica),BSG1,"Captain, Sturdy, Main Character, Diligent, Important, Workaholic",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/1.jpg
+Homelander (The Boys),TB3,"Vengeful, Genocidal, Crazy, Extreme, Selfish, Deranged",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/3.jpg
+Linda Martin (Lucifer),LU6,"Bookish, Civilized, Knowledgeable, High Iq, Egalitarian, Empath",https://openpsychometrics.org/tests/characters/test-resources/pics/LU/6.jpg
+David Rossi (Criminal Minds),CM4,"Italian, Rich, Loyal, Pro, Resourceful, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/CM/4.jpg
+Dan Espinoza (Lucifer),LU3,"Side Character, Boy/Girl-Next-Door, 🧢, Everyman, Tense, Vanilla, Human",https://openpsychometrics.org/tests/characters/test-resources/pics/LU/3.jpg
+Eleven (Stranger Things),ST4,"Badass, Love-Focused, Persistent, Loyal, F***-The-Police, Extraordinary",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/4.jpg
+Lucifer Morningstar (Lucifer),LU1,"Sexual, Rich, Bold, Main Character, Playful, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/LU/1.jpg
+Omar Little (The Wire),TW12,"Queen, Street-Smart, Pro, Freelance, Important, Resourceful",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/12.jpg
+Kara 'Starbuck' Thrace (Battlestar Galactica),BSG3,"Pro, F***-The-Police, Bold, Alpha, Assertive, Brave",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/3.jpg
+Queen Maeve (The Boys),TB5,"Attractive, Beautiful, Queen, Queer, 🏋️‍♂️, Sad",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/5.jpg
+Joyce Byers (Stranger Things),ST1,"Persistent, Family-First, Emotional, Devoted, Motivated, Tense",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/1.jpg
+Dustin Henderson (Stranger Things),ST5,"Funny, Kind, Treasure, Soulful, Egalitarian, Loyal",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/5.jpg
+Robin Buckley (Stranger Things),ST15,"Badass, Beautiful, Queer, F***-The-Police, Feminist, Adventurous",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/15.jpg
+Ian Gallagher (Shameless),SHL7,"Queer, Egalitarian, Complicated, 🦄, F***-The-Police, Feminist",https://openpsychometrics.org/tests/characters/test-resources/pics/SHL/7.jpg
+Ben Scott (Yellowjackets),YJ6,"Sporty, 🏀, Queer, Unlucky, 👟, Nurturing, Boy/Girl-Next-Door",https://openpsychometrics.org/tests/characters/test-resources/pics/YJ/6.jpg
+Misty (Yellowjackets),YJ5,"Go-Getter, Obsessed, Desperate, Freak, Decisive, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/YJ/5.jpg
+Laura Roslin (Battlestar Galactica),BSG2,"Persistent, Important, Studious, Diligent, High Iq, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/2.jpg
+Kimiko Miyashiro (The Boys),TB10,"Confidential, Reserved, Badass, Secretive, Freelance, Guarded, Reclusive, Oppressed",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/10.jpg
+Number Six (Battlestar Galactica),BSG6,"Manicured, Stylish, Driven, Alpha, Bold, Sexual",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/6.jpg
+Abby Sciuto (NCIS),NCIS3,"Punk Rock, High-Tech, High Iq, Motivated, Fast-Talking, Expressive",https://openpsychometrics.org/tests/characters/test-resources/pics/NCIS/3.jpg
+Donald Mallard (NCIS),NCIS4,"High Iq, Valedictorian, 🧠, Perceptive, Competent, Diligent, Loyal, Knowledgeable",https://openpsychometrics.org/tests/characters/test-resources/pics/NCIS/4.jpg
+Dr. Spencer Reid (Criminal Minds),CM1,"High Iq, 🧠, Genius, Knowledgeable, Nerd, Bookish",https://openpsychometrics.org/tests/characters/test-resources/pics/CM/1.jpg
+Lucas Sinclair (Stranger Things),ST6,"Egalitarian, Gamer, Loyal, Heroic, English, 🚴",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/6.jpg
+Stevie Budd (Schitt's Creek),SsC5,"Frank, Boy/Girl-Next-Door, Sarcastic, Thrifty, 🧢, Down2earth",https://openpsychometrics.org/tests/characters/test-resources/pics/SsC/5.jpg
+Jimmy McNulty (The Wire),TW2,"Persistent, Rebellious, Contrarian, Cocky, Gendered, Opinionated",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/2.jpg
+Erica Sinclair (Stranger Things),ST13,"Bold, Loud, Opinionated, Confident, Extrovert, Direct",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/13.jpg
+Chloe Decker (Lucifer),LU2,"Workaholic, Diligent, Motivated, Beautiful, Competent, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/LU/2.jpg
+Penelope Garcia (Criminal Minds),CM2,"Expressive, Warm, High-Tech, 🦄, Multicolored, Kind",https://openpsychometrics.org/tests/characters/test-resources/pics/CM/2.jpg
+Shauna (Yellowjackets),YJ1,"Secretive, Important, Cannibal, Diligent, Traitorous, Guarded, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/YJ/1.jpg
+Will Byers (Stranger Things),ST11,"Nerd, Bookish, Loyal, Traumatized, 🎨, 🚴",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/11.jpg
+Steve Harrington (Stranger Things),ST9,"Funny, 😎, Flirtatious, 👩‍🎤, Heroic, Playful, Sporty",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/9.jpg
+Brian Johnson (The Breakfast Club),BC4,"Nerd, Bookish, Valedictorian, 🧠, Intellectual, Submissive",https://openpsychometrics.org/tests/characters/test-resources/pics/BC/4.jpg
+Johnny Rose (Schitt's Creek),SsC1,"Non-Gamer, Motivated, Privileged, City-Slicker, Preppy, Gendered",https://openpsychometrics.org/tests/characters/test-resources/pics/SsC/1.jpg
+Russell 'Stringer' Bell (The Wire),TW15,"Motivated, Driven, Self-Disciplined, Diligent, Alert, Machiavellian",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/15.jpg
+Phil Dunphy (Modern Family),MF4,"Good-Humored, Soulful, Kind, Optimistic, Cheery, Expressive",https://openpsychometrics.org/tests/characters/test-resources/pics/MF/4.jpg
+Nancy Wheeler (Stranger Things),ST7,"Beautiful, Feminist, Valedictorian, Go-Getter, Diligent, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/7.jpg
+Eliza Hamilton (Hamilton),HAM2,"Devoted, Family-First, Loyal, Soulful, Nurturing, 😇, Musical",https://openpsychometrics.org/tests/characters/test-resources/pics/HAM/2.jpg
+Mike Wheeler (Stranger Things),ST3,"🚴, Young, Nerd, Love-Focused, Gamer, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/3.jpg
+Lee 'Apollo' Adama (Battlestar Galactica),BSG4,"Motivated, Patriotic, Privileged, Gendered, Valedictorian, Heroic",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/4.jpg
+Andrew Clark (The Breakfast Club),BC3,"Sporty, 🏀, 👟, Jock, 🧢, Physical, Patriotic",https://openpsychometrics.org/tests/characters/test-resources/pics/BC/3.jpg
+Mazikeen (Lucifer),LU5,"F***-The-Police, Ferocious, Spicy, Fire, Badass, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/LU/5.jpg
+Amenadiel (Lucifer),LU4,"Diligent, Egalitarian, Self-Disciplined, Theist, Tall, Heroic",https://openpsychometrics.org/tests/characters/test-resources/pics/LU/4.jpg
+Anthony DiNozzo (NCIS),NCIS2,"Sexual, Playful, Flirtatious, Bold, Extrovert, Loud",https://openpsychometrics.org/tests/characters/test-resources/pics/NCIS/2.jpg
+Lester Freamon (The Wire),TW4,"Knowledgeable, Pro, Perceptive, Sage, Competent, High Iq, Resourceful",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/4.jpg
+Avon Barksdale (The Wire),TW17,"City-Slicker, Motivated, Never Cries, Bossy, Dominant, Intense",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/17.jpg
+Saul Tigh (Battlestar Galactica),BSG8,"Frank, Stubborn, Jaded, Masculine, Gendered, Haunted",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/8.jpg
+Gaius Baltar (Battlestar Galactica),BSG5,"Extravagant, Arrogant, Narcissistic, Vain, Entitled, Nerd",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/5.jpg
+Thomas 'Herc' Hauk (The Wire),TW6,"Gendered, 🧢, Jock, Unpolished, Physical, Impatient",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/6.jpg
+Jim Hopper (Stranger Things),ST2,"🥾, Masculine, Loyal, 🤠, Rock, Badass",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/2.jpg
+Leroy Jethro Gibbs (NCIS),NCIS1,"Diligent, Persistent, Workaholic, Master, Pro, Main Character",https://openpsychometrics.org/tests/characters/test-resources/pics/NCIS/1.jpg
+Manny Delgado (Modern Family),MF8,"Lover, Valedictorian, Nerd, 🎨, Soulful, Civilized",https://openpsychometrics.org/tests/characters/test-resources/pics/MF/8.jpg
+Billy Butcher (The Boys),TB1,"Dominant, Rebellious, Masculine, F***-The-Police, Bold, Captain, Haunted",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/1.jpg
+Cedric Daniels (The Wire),TW1,"On-Time, Diligent, Studious, Perceptive, Self-Disciplined, Rational",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/1.jpg
+Reginald 'Bubbles' Cousins (The Wire),TW8,"Oppressed, Street-Smart, Not Genocidal, Poor, Blue-Collar, Twitchy",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/8.jpg
+Billy Hargrove (Stranger Things),ST14,"Competitive, Cocky, Sporty, F***-The-Police, Mischievous, 💪",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/14.jpg
+Timothy McGee (NCIS),NCIS5,"Devoted, Loyal, Nerd, Kind, Civilized, Heroic",https://openpsychometrics.org/tests/characters/test-resources/pics/NCIS/5.jpg
+Jean-Luc Picard (Star Trek: The Next Generation),TNG1,"Main Character, Competent, Diligent, Pro, Captain, Resourceful",https://openpsychometrics.org/tests/characters/test-resources/pics/TNG/1.jpg
+Sharon 'Boomer' Valerii (Battlestar Galactica),BSG7,"Beautiful, Attractive, Secretive, Haunted, 🧗, Go-Getter",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/7.jpg
+Principal Vernon (The Breakfast Club),BC6,"Strict, Tense, Punchable, 🐴, Impatient, Judgemental, Serious",https://openpsychometrics.org/tests/characters/test-resources/pics/BC/6.jpg
+Bunk Moreland (The Wire),TW5,"Not Genocidal, Straight, Perceptive, Gendered, Flirtatious, Street-Smart",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/5.jpg
+Karl 'Helo' Agathon (Battlestar Galactica),BSG10,"🏀, Active, Masculine, Diligent, Persistent, 🤺",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/10.jpg
+Galen Tyrol (Battlestar Galactica),BSG9,"Blue-Collar, 👨‍🔧, Blacksmith, Motivated, Diligent, 🐴",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/9.jpg
+Allison Reynolds (The Breakfast Club),BC5,"Introvert, 🎨, Reclusive, Winter, Cat Person, Arcane",https://openpsychometrics.org/tests/characters/test-resources/pics/BC/5.jpg
+King George III (Hamilton),HAM6,"Rich, Privileged, Entitled, Extravagant, Flamboyant, Opinionated",https://openpsychometrics.org/tests/characters/test-resources/pics/HAM/6.jpg
+Preston 'Bodie' Broadus (The Wire),TW14,"🧢, Rap, Blue-Collar, Urban, Oppressed, Street-Smart, Cocky",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/14.jpg
+Ellis Carver (The Wire),TW7,"Not Genocidal, English, Cocky, Gendered, Urban, City-Slicker",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/7.jpg
+Jackie (Yellowjackets),YJ3,"Gatherer, Gendered, Feminine, Privileged, Social, Extrovert",https://openpsychometrics.org/tests/characters/test-resources/pics/YJ/3.jpg
+Frenchie (The Boys),TB9,"French, F***-The-Police, Freelance, Loyal, Backdoor, Anarchist",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/9.jpg
+George Washington (Hamilton),HAM5,"Captain, Driven, Master, Patriotic, Competent, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/HAM/5.jpg
+Aaron Burr (Hamilton),HAM3,"Studious, Valedictorian, Self-Disciplined, Scheduled, Guarded, Musical",https://openpsychometrics.org/tests/characters/test-resources/pics/HAM/3.jpg
+Roland 'Prez' Pryzbylewski (The Wire),TW10,"Not Genocidal, First-Mate, 🧠, Bookish, Vintage, Beta, Miserable, Everyman",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/10.jpg
+Jonathan Byers (Stranger Things),ST8,"Reserved, Bookish, Reclusive, Family-First, Introvert, 🎨, Private",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/8.jpg
+Tommy (Shameless),SHL9,"👨‍🔧, 🧢, Side Character, 🥾, Slovenly, Indulgent",https://openpsychometrics.org/tests/characters/test-resources/pics/SHL/9.jpg
+Kima Greggs (The Wire),TW3,"Badass, Persistent, Street-Smart, Diligent, Perceptive, Competent",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/3.jpg
+D'Angelo Barksdale (The Wire),TW24,"Not Genocidal, Haunted, Urban, English, Oppressed, Naive",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/24.jpg
+Alexis Rose (Schitt's Creek),SsC4,"Feminine, Social, Privileged, Modern, 💃, Manicured",https://openpsychometrics.org/tests/characters/test-resources/pics/SsC/4.jpg
+Felix Gaeta (Battlestar Galactica),BSG11,"First-Mate, High-Tech, Regular, Diligent, Side Character, High Iq",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/11.jpg
+Annie January (The Boys),TB4,"Gendered, Valedictorian, Fresh, Diligent, Beautiful, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/4.jpg
+Stormfront (The Boys),TB15,"Genocidal, Demonic, 😈, Narcissistic, Villainous, Opinionated",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/15.jpg
+Data (Star Trek: The Next Generation),TNG9,"High Iq, Self-Disciplined, Competent, Factual, Direct, Precise",https://openpsychometrics.org/tests/characters/test-resources/pics/TNG/9.jpg
+Worf (Star Trek: The Next Generation),TNG5,"Diligent, Loyal, Sturdy, Active, Direct, Honorable",https://openpsychometrics.org/tests/characters/test-resources/pics/TNG/5.jpg
+Kermit (Shameless),SHL10,"Old, Unmotivated, 🛌, Slothful, Repulsive, Beta, Weird, Awkward, Side Character",https://openpsychometrics.org/tests/characters/test-resources/pics/SHL/10.jpg
+Eric Cartman (South Park),SP3,"Loud, Rude, Insulting, Thick, Judgemental, Juvenile",https://openpsychometrics.org/tests/characters/test-resources/pics/SP/3.jpg
+David Rose (Schitt's Creek),SsC3,"Dramatic, 🎨, Extravagant, Manicured, Opinionated, Metrosexual",https://openpsychometrics.org/tests/characters/test-resources/pics/SsC/3.jpg
+Dennis 'Cutty' Wise (The Wire),TW23,"Blue-Collar, Generous, Badass, Gendered, Soulful, Sturdy",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/23.jpg
+Clay Davis (The Wire),TW25,"Narcissistic, Celebrity, Political, Two-Faced, Jaded, Hedonist",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/25.jpg
+Claire Dunphy (Modern Family),MF3,"Alpha, Ocd, Bossy, Tense, Captain, Workaholic",https://openpsychometrics.org/tests/characters/test-resources/pics/MF/3.jpg
+Karen Wheeler (Stranger Things),ST10,"Feminine, Sexual, 💃, Playful, Summer, Flirtatious",https://openpsychometrics.org/tests/characters/test-resources/pics/ST/10.jpg
+The Deep (The Boys),TB8,"Water, Sexist, Perverted, Desperate, Cringeworthy, Moody",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/8.jpg
+William Riker (Star Trek: The Next Generation),TNG2,"Healthy, Gendered, Bold, Motivated, Loyal, Sexual",https://openpsychometrics.org/tests/characters/test-resources/pics/TNG/2.jpg
+Tommy Carcetti (The Wire),TW16,"Political, Driven, Machiavellian, Two-Faced, Money-Focused, Narcissistic",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/16.jpg
+Frank Sobotka (The Wire),TW28,"Blue-Collar, 🧢, Masculine, Vintage, 🥾, Punk Rock",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/28.jpg
+Kenny McCormick (South Park),SP4,"Orange, Unlucky, Poor, Quiet, Winter, 🤐",https://openpsychometrics.org/tests/characters/test-resources/pics/SP/4.jpg
+Leopold 'Butters' Stotch (South Park),SP5,"Submissive, Kind, Vulnerable, Beta, Soft, Meek",https://openpsychometrics.org/tests/characters/test-resources/pics/SP/5.jpg
+Alexander Hamilton (Hamilton),HAM1,"Workaholic, Persistent, Motivated, Opinionated, Driven, Main Character",https://openpsychometrics.org/tests/characters/test-resources/pics/HAM/1.jpg
+Beverly Crusher (Star Trek: The Next Generation),TNG6,"Valedictorian, Civilized, 👨‍⚕️, Diligent, Nurturing, Pro",https://openpsychometrics.org/tests/characters/test-resources/pics/TNG/6.jpg
+Taissa (Yellowjackets),YJ2,"Frank, Beautiful, Queer, Demanding, Decisive, Badass",https://openpsychometrics.org/tests/characters/test-resources/pics/YJ/2.jpg
+Anastasia Dualla (Battlestar Galactica),BSG12,"Egalitarian, Valedictorian, Studious, Attractive, Diligent, Overachiever",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/12.jpg
+Cameron Tucker (Modern Family),MF6,"Emotional, Queer, Expressive, Exaggerating, Extrovert, Multicolored",https://openpsychometrics.org/tests/characters/test-resources/pics/MF/6.jpg
+Deanna Troi (Star Trek: The Next Generation),TNG7,"Empath, Egalitarian, Feminine, Touchy-Feely, Kind, Perceptive",https://openpsychometrics.org/tests/characters/test-resources/pics/TNG/7.jpg
+Carla Espinosa (Scrubs),SCRUBS6,"Devoted, Beautiful, Motivated, Bold, Loyal, Competent",https://openpsychometrics.org/tests/characters/test-resources/pics/SCRUBS/6.jpg
+Samuel 'Longshot' Anders (Battlestar Galactica),BSG15,"🏀, Sporty, Jock, 🧗, Gamer, Masculine, Active",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/15.jpg
+Black Noir (The Boys),TB11,"Quiet, Reserved, Guarded, Distant, Private, Secretive",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/11.jpg
+Jimmy Palmer (NCIS),NCIS6,"🧠, Bookish, 👨‍⚕️, Intellectual, Kind, Nerd",https://openpsychometrics.org/tests/characters/test-resources/pics/NCIS/6.jpg
+Cally Henderson (Battlestar Galactica),BSG14,"Boy/Girl-Next-Door, Side Character, Blue-Collar, Love-Focused, 👨‍🔧, Proletariat",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/14.jpg
+Mother's Milk (The Boys),TB7,"Loyal, One-Faced, Egalitarian, Competent, Diligent, Badass",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/7.jpg
+Angelica Schuyler (Hamilton),HAM4,"Feminist, Rhythmic, Beautiful, Rich, Attractive, Valedictorian",https://openpsychometrics.org/tests/characters/test-resources/pics/HAM/4.jpg
+Gloria Delgado-Pritchett (Modern Family),MF2,"Beautiful, Feminine, Spicy, Fire, Loud, Fresh, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/MF/2.jpg
+Hughie Campbell (The Boys),TB2,"Nerd, Love-Focused, Tense, Boy/Girl-Next-Door, Emotional, Devoted",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/2.jpg
+Walter 'Radar' O'Reilly (M*A*S*H),MASH6,"Sweet, Nerd, Respectful, Kind, Bashful, Loyal",https://openpsychometrics.org/tests/characters/test-resources/pics/MASH/6.jpg
+Margaret 'Hot Lips' Houlihan (M*A*S*H),MASH2,"Motivated, Patriotic, On-Time, Competent, Opinionated, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/MASH/2.jpg
+Wesley Crusher (Star Trek: The Next Generation),TNG8,"Nerd, Young, Vanilla, Curious, Pure, Kind",https://openpsychometrics.org/tests/characters/test-resources/pics/TNG/8.jpg
+Moira Rose (Schitt's Creek),SsC2,"Dramatic, Extravagant, Bold, Lavish, City-Slicker, Exaggerating",https://openpsychometrics.org/tests/characters/test-resources/pics/SsC/2.jpg
+William Rawls (The Wire),TW9,"Never Cries, Stubborn, Bossy, Authoritarian, Cynical, Miserable",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/9.jpg
+Haley Dunphy (Modern Family),MF9,"Feminine, Modern, Impulsive, Stylish, Extrovert, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/MF/9.jpg
+Frank Burns (M*A*S*H),MASH5,"Tense, Judgemental, Receiving, Stubborn, Close-Minded, Tight",https://openpsychometrics.org/tests/characters/test-resources/pics/MASH/5.jpg
+Guinan (Star Trek: The Next Generation),TNG10,"Wise, Perceptive, Soulful, Nurturing, Knowledgeable, Independent, Open-Minded",https://openpsychometrics.org/tests/characters/test-resources/pics/TNG/10.jpg
+Geordi La Forge (Star Trek: The Next Generation),TNG3,"Competent, High-Tech, Technophile, Loyal, Diligent, Egalitarian",https://openpsychometrics.org/tests/characters/test-resources/pics/TNG/3.jpg
+Nick Sobotka (The Wire),TW30,"Blue-Collar, 🏀, 👨‍🔧, Lowbrow, 🧢, Sporty",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/30.jpg
+Madelyn Stillwell (The Boys),TB13,"Rich, Workaholic, 🤑, Selfish, Manicured, Corporate, Overachiever",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/13.jpg
+Ziggy Sobotka (The Wire),TW29,"Lost, Twitchy, Expressive, Ambitious, Impulsive, Noob",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/29.jpg
+Ashley Barrett (The Boys),TB12,"Tense, Scheduled, Corporate, Work-First, Workaholic, Side Character",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/12.jpg
+Christopher Turk (Scrubs),SCRUBS3,"Expressive, Funny, Warm, Not Genocidal, 🏀, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/SCRUBS/3.jpg
+Randall Pearson (This Is Us),TIU3,"Valedictorian, Overachiever, Diligent, Workaholic, Driven, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/TIU/3.jpg
+Temperance Brennan (Bones),B1,"High Iq, Bookish, Direct, Pro, Competent, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/B/1.jpg
+Luke Dunphy (Modern Family),MF7,"Random, 😜, Goof-Off, Tardy, Messy, Chaotic, Disorganized, Spontaneous",https://openpsychometrics.org/tests/characters/test-resources/pics/MF/7.jpg
+Stan Marsh (South Park),SP1,"🧢, Gendered, Young, Human, Not Genocidal, English",https://openpsychometrics.org/tests/characters/test-resources/pics/SP/1.jpg
+Benjamin 'Hawkeye' Pierce (M*A*S*H),MASH1,"Flirtatious, Main Character, Chatty, Social, Bold, Rebellious, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/MASH/1.jpg
+Ervin Burrell (The Wire),TW13,"Corporate, Straight, Political, Gendered, Vintage, Serious",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/13.jpg
+Maurice Levy (The Wire),TW21,"Money-Focused, Salacious, Cynical, Jaded, Receiving, Selfish",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/21.jpg
+Francis Mulcahy (M*A*S*H),MASH4,"Not Genocidal, Theist, Kind, Wholesome, Love-Focused, Complimentary",https://openpsychometrics.org/tests/characters/test-resources/pics/MASH/4.jpg
+Maxwell Klinger (M*A*S*H),MASH3,"Funny, Exuberant, Expressive, Bold, Open To New Experinces, Extrovert",https://openpsychometrics.org/tests/characters/test-resources/pics/MASH/3.jpg
+Kate Pearson (This Is Us),TIU4,"Emotional, Family-First, Love-Focused, 🎨, Straight, Thick",https://openpsychometrics.org/tests/characters/test-resources/pics/TIU/4.jpg
+Ted Mullens (Schitt's Creek),SsC6,"👨‍⚕️, Civilized, Devoted, Kind, Healthy, Sunny",https://openpsychometrics.org/tests/characters/test-resources/pics/SsC/6.jpg
+Spiros 'Vondas' Vondopoulos (The Wire),TW27,"Bad Boy, Vintage, Money-Focused, Secretive, 😈, Backdoor",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/27.jpg
+Beatrice 'Beadie' Russell (The Wire),TW22,"Boy/Girl-Next-Door, Persistent, Motivated, Devoted, Sheriff, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/22.jpg
+Jay Pritchett (Modern Family),MF1,"Rich, Straight, 🏀, Skeptical, Competitive, Realistic",https://openpsychometrics.org/tests/characters/test-resources/pics/MF/1.jpg
+Mitchell Pritchett (Modern Family),MF5,"Queer, Bookish, 🎨, 🧠, Preppy, Egalitarian",https://openpsychometrics.org/tests/characters/test-resources/pics/MF/5.jpg
+Ilana Wexler (Broad City),BDC2,"Expressive, 😜, Adventurous, Loud, Bold, Spontaneous, Open To New Experinces",https://openpsychometrics.org/tests/characters/test-resources/pics/BDC/2.jpg
+William H. 'Shakespeare' Hill (This Is Us),TIU8,"Artistic, Forgiving, Perceptive, Deep, Egalitarian, Poetic, Love-Focused",https://openpsychometrics.org/tests/characters/test-resources/pics/TIU/8.jpg
+A-Train (The Boys),TB6,"Sporty, Cocky, Arrogant, Fast, Receiving, Jock",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/6.jpg
+Toby Damon (This Is Us),TIU7,"Funny, Boy/Girl-Next-Door, Chatty, Good-Humored, Emotional, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/TIU/7.jpg
+Michael Lee (The Wire),TW20,"Urban, Oppressed, Blue-Collar, Poor, Proletariat, Secretive",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/20.jpg
+Chrisjen Avasarala (The Expanse),EXP4,"Political, Bossy, Rich, Master, Driven, Resourceful, Assertive",https://openpsychometrics.org/tests/characters/test-resources/pics/EXP/4.jpg
+Tobias Funke (Arrested Development),AD7,"Nerd, Emotional, Weird, Dramatic, Dorky, Weakass",https://openpsychometrics.org/tests/characters/test-resources/pics/AD/7.jpg
+Alex Dunphy (Modern Family),MF10,"High Iq, Overachiever, Bookish, Valedictorian, 👩‍🔬, Nerd",https://openpsychometrics.org/tests/characters/test-resources/pics/MF/10.jpg
+Jack Pearson (This Is Us),TIU1,"Romantic, Important, Charismatic, Badass, Loyal, Soulful",https://openpsychometrics.org/tests/characters/test-resources/pics/TIU/1.jpg
+Beth Pearson (This Is Us),TIU6,"Beautiful, Attractive, Badass, Fresh, Competent, High Iq",https://openpsychometrics.org/tests/characters/test-resources/pics/TIU/6.jpg
+Perry Cox (Scrubs),SCRUBS5,"Cynical, Skeptical, Alpha, Cocky, Insulting, Bossy",https://openpsychometrics.org/tests/characters/test-resources/pics/SCRUBS/5.jpg
+Elliot Reid (Scrubs),SCRUBS2,"Fast-Talking, Chatty, Boy/Girl-Next-Door, 👨‍⚕️, Emotional, Anxious",https://openpsychometrics.org/tests/characters/test-resources/pics/SCRUBS/2.jpg
+Rhonda Pearlman (The Wire),TW11,"On-Time, Workaholic, Valedictorian, High Iq, Go-Getter, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/11.jpg
+Dennis Reynolds (It's Always Sunny in Philadelphia),ASP2,"Cocky, Competitive, Arrogant, Vain, Narcissistic, Psychopath",https://openpsychometrics.org/tests/characters/test-resources/pics/ASP/2.jpg
+Mac (It's Always Sunny in Philadelphia),ASP3,"Physical, Impatient, Loud, Juvenile, 💪, Patriotic",https://openpsychometrics.org/tests/characters/test-resources/pics/ASP/3.jpg
+Becca Butcher (The Boys),TB14,"Boy/Girl-Next-Door, Gendered, Civilized, Family-First, Non-Gamer, Traumatized",https://openpsychometrics.org/tests/characters/test-resources/pics/TB/14.jpg
+Tasha Yar (Star Trek: The Next Generation),TNG4,"Devoted, Feminist, 👨‍🚀, Self-Disciplined, Brave, 🧗",https://openpsychometrics.org/tests/characters/test-resources/pics/TNG/4.jpg
+Angela Montenegro (Bones),B3,"Feminist, Egalitarian, 🎨, Empath, Attractive, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/B/3.jpg
+Billy Keikeya (Battlestar Galactica),BSG13,"Not Genocidal, Boy/Girl-Next-Door, Everyman, Civilized, Side Character, Bookish",https://openpsychometrics.org/tests/characters/test-resources/pics/BSG/13.jpg
+Kyle Broflovski (South Park),SP2,"Orange, Winter, Young, Human, Heroic, 🧠",https://openpsychometrics.org/tests/characters/test-resources/pics/SP/2.jpg
+John Michael Dorian (Scrubs),SCRUBS1,"Emotional, Main Character, Boy/Girl-Next-Door, Nerd, Funny, 👨‍⚕️",https://openpsychometrics.org/tests/characters/test-resources/pics/SCRUBS/1.jpg
+Chris Partlow (The Wire),TW18,"Concise, Hunter, Persistent, Intense, Blue-Collar, Sturdy",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/18.jpg
+Camille Saroyan (Bones),B5,"Neat, Competent, Pro, Mature, Egalitarian, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/B/5.jpg
+Charlie Kelly (It's Always Sunny in Philadelphia),ASP1,"Chaotic, Spontaneous, Drop Out, Self-Destructive, Scruffy, Twitchy",https://openpsychometrics.org/tests/characters/test-resources/pics/ASP/1.jpg
+"George Bluth, Sr. (Arrested Development)",AD8,"Entitled, Mischievous, Privileged, Money-Focused, Receiving, Selfish",https://openpsychometrics.org/tests/characters/test-resources/pics/AD/8.jpg
+Naomi Nagata (The Expanse),EXP2,"Resourceful, Confidential, 🧗, Pro, Protagonist, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/EXP/2.jpg
+Kevin Pearson (This Is Us),TIU5,"Sexual, Flirtatious, Jock, 👩‍🎤, Modern, Straight",https://openpsychometrics.org/tests/characters/test-resources/pics/TIU/5.jpg
+George Oscar 'Gob' Bluth (Arrested Development),AD3,"Fantastical, Cocky, Interrupting, Privileged, Impulsive, Arrogant, Exhibitionist",https://openpsychometrics.org/tests/characters/test-resources/pics/AD/3.jpg
+Jim Holden (The Expanse),EXP1,"Protagonist, Egalitarian, Motivated, Spelunker, Main Character, Active",https://openpsychometrics.org/tests/characters/test-resources/pics/EXP/1.jpg
+Jack Hodgins (Bones),B4,"High Iq, Knowledgeable, High-Tech, 👩‍🔬, Scientific, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/B/4.jpg
+Seeley Booth (Bones),B2,"Sexual, 🏀, Masculine, Straight, Patriotic, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/B/2.jpg
+Norman Wilson (The Wire),TW19,"Perceptive, Pointed, English, High Iq, Reassuring, Cultured",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/19.jpg
+Lucille Bluth (Arrested Development),AD10,"Privileged, Entitled, Opinionated, Judgemental, Narcissistic, Receiving",https://openpsychometrics.org/tests/characters/test-resources/pics/AD/10.jpg
+George Michael Bluth (Arrested Development),AD4,"Nerd, Submissive, Accommodating, Pacifist, Awkward, Soft",https://openpsychometrics.org/tests/characters/test-resources/pics/AD/4.jpg
+Oscar Bluth (Arrested Development),AD9,"Scruffy, Weird, Unorthodox, Old, Crazy, Tardy",https://openpsychometrics.org/tests/characters/test-resources/pics/AD/9.jpg
+Rebecca Pearson (This Is Us),TIU2,"Flower Child, Love-Focused, Beautiful, Musical, Attractive, 🎨",https://openpsychometrics.org/tests/characters/test-resources/pics/TIU/2.jpg
+Maeby Funke (Arrested Development),AD5,"Rebellious, Mischievous, Adventurous, Sarcastic, Bossy, Feisty",https://openpsychometrics.org/tests/characters/test-resources/pics/AD/5.jpg
+Lagertha (Vikings),VK1,"Badass, Queen, Pro, Wise, Devoted, Charming, 🧗",https://openpsychometrics.org/tests/characters/test-resources/pics/VK/1.jpg
+Michael Bluth (Arrested Development),AD1,"Main Character, 🚴, Workaholic, Boy/Girl-Next-Door, Tense, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/AD/1.jpg
+Bob Kelso (Scrubs),SCRUBS4,"Corporate, Old, Cocky, Demanding, Narcissistic, Sarcastic",https://openpsychometrics.org/tests/characters/test-resources/pics/SCRUBS/4.jpg
+Frank Reynolds (It's Always Sunny in Philadelphia),ASP5,"Short, Scruffy, Weird, Bold, Mischievous, Indulgent",https://openpsychometrics.org/tests/characters/test-resources/pics/ASP/5.jpg
+Amos Burton (The Expanse),EXP3,"Stoic, Decisive, Fighter, Direct, Ferocious, 🧗",https://openpsychometrics.org/tests/characters/test-resources/pics/EXP/3.jpg
+Lindsay Bluth Funke (Arrested Development),AD2,"Entitled, Overspender, Exaggerating, Flamboyant, 💃, Gossiping",https://openpsychometrics.org/tests/characters/test-resources/pics/AD/2.jpg
+Eve Polastri (Killing Eve),KE2,"Work-First, Workaholic, Important, Persistent, Diligent, High Iq",https://openpsychometrics.org/tests/characters/test-resources/pics/KE/2.jpg
+Clarence Royce (The Wire),TW26,"Political, Cocky, Two-Faced, Scrub, Tattle-Tale, Gendered",https://openpsychometrics.org/tests/characters/test-resources/pics/TW/26.jpg
+Buster Bluth (Arrested Development),AD6,"Nerd, Codependent, Weird, Sheltered, Anxious, Beta",https://openpsychometrics.org/tests/characters/test-resources/pics/AD/6.jpg
+John Carter (ER),ER1,"Heroic, Important, English, Motivated, Persistent, Not Genocidal",https://openpsychometrics.org/tests/characters/test-resources/pics/ER/1.jpg
+Kerry Weaver (ER),ER2,"Diligent, Scientific, 👨‍⚕️, Captain, Knowledgeable, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/ER/2.jpg
+Dee Reynolds (It's Always Sunny in Philadelphia),ASP4,"Loud, Bad-Cook, Self-Destructive, Exaggerating, Competitive, Feisty",https://openpsychometrics.org/tests/characters/test-resources/pics/ASP/4.jpg
+Abbi Abrams (Broad City),BDC1,"Not Genocidal, Feminist, Liberal, Urban, Protagonist, Believable",https://openpsychometrics.org/tests/characters/test-resources/pics/BDC/1.jpg
+Calvin (Calvin and Hobbes),CH1,"Mischievous, Adventurous, Messy, Impulsive, Chatty, Zany",https://openpsychometrics.org/tests/characters/test-resources/pics/CH/1.jpg
+Villanelle (Killing Eve),KE1,"Adventurous, Beautiful, F***-The-Police, Extraordinary, Important, Mischievous",https://openpsychometrics.org/tests/characters/test-resources/pics/KE/1.jpg
+Sophie (This Is Us),TIU10,"Beautiful, Side Character, Feminine, Straight, Attractive, Clean",https://openpsychometrics.org/tests/characters/test-resources/pics/TIU/10.jpg
+Hobbes (Calvin and Hobbes),CH2,"Orange, Treasure, Charismatic, Leisurely, Warm, Open To New Experinces",https://openpsychometrics.org/tests/characters/test-resources/pics/CH/2.jpg
+Floki (Vikings),VK3,"Quirky, Spiritual, Creative, Metaphorical, Wild, Scruffy, Playful",https://openpsychometrics.org/tests/characters/test-resources/pics/VK/3.jpg
+Ivar Ragnarsson (Vikings),VK7,"Vengeful, Competitive, Arrogant, Driven, Offended, Poisonous",https://openpsychometrics.org/tests/characters/test-resources/pics/VK/7.jpg
+Bobbie Draper  (The Expanse),EXP6,"Self-Disciplined, Resourceful, Frank, Motivated, Persistent, Workaholic",https://openpsychometrics.org/tests/characters/test-resources/pics/EXP/6.jpg
+Jake Ballard (Scandal),SCDL9,"Motivated, Masculine, Self-Disciplined, Hunter, Workaholic, Secretive",https://openpsychometrics.org/tests/characters/test-resources/pics/SCDL/9.jpg
+Konstantin (Killing Eve),KE4,"Russian, Winter, Two-Faced, Secretive, Worldly, Guarded",https://openpsychometrics.org/tests/characters/test-resources/pics/KE/4.jpg
+Luka Kovac (ER),ER6,"Straight, Egalitarian, Tall, 👨‍⚕️, Sexual, Believable",https://openpsychometrics.org/tests/characters/test-resources/pics/ER/6.jpg
+Aunt Polly (Peaky Blinders),PKB3,"Master, Perceptive, Badass, Persistent, Bold, Queen",https://openpsychometrics.org/tests/characters/test-resources/pics/PKB/3.jpg
+Miguel Rivas (This Is Us),TIU9,"Side Character, Not Genocidal, Vintage, First-Mate, Tame, Egalitarian",https://openpsychometrics.org/tests/characters/test-resources/pics/TIU/9.jpg
+Ragnar Lothbrok (Vikings),VK5,"Alpha, Important, Go-Getter, Persistent, Overachiever, Captain, Master",https://openpsychometrics.org/tests/characters/test-resources/pics/VK/5.jpg
+Carolyn Martens (Killing Eve),KE3,"Work-First, Logical, Workaholic, Secretive, Dominant, High Iq",https://openpsychometrics.org/tests/characters/test-resources/pics/KE/3.jpg
+Ada Shelby (Peaky Blinders),PKB4,"Beautiful, Egalitarian, Fresh, Young, 🌟, English",https://openpsychometrics.org/tests/characters/test-resources/pics/PKB/4.jpg
+Calvin's mom (Calvin and Hobbes),CH4,"Human, Clean, Sheriff, Normal, Practical, Mature",https://openpsychometrics.org/tests/characters/test-resources/pics/CH/4.jpg
+Kenny Stowton (Killing Eve),KE6,"Kind, Respectful, High-Tech, Civilized, Heroic, Nerd",https://openpsychometrics.org/tests/characters/test-resources/pics/KE/6.jpg
+Calvin's dad (Calvin and Hobbes),CH3,"Reasoned, Proper, Works Hard, Frugal, Sheriff, 🧠, Scheduled",https://openpsychometrics.org/tests/characters/test-resources/pics/CH/3.jpg
+Huck (Scandal),SCDL4,"Reclusive, Private, Serious, Punk Rock, Distant, Introvert",https://openpsychometrics.org/tests/characters/test-resources/pics/SCDL/4.jpg
+Torvi (Vikings),VK4,"Motivated, Devoted, Coordinated, 🤺, Feminist, Boy/Girl-Next-Door",https://openpsychometrics.org/tests/characters/test-resources/pics/VK/4.jpg
+Olivia Pope (Scandal),SCDL1,"Diligent, Workaholic, Driven, Main Character, Bold, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/SCDL/1.jpg
+Fitzgerald Grant (Scandal),SCDL8,"Rich, Political, Privileged, Sexual, Demanding, Charming",https://openpsychometrics.org/tests/characters/test-resources/pics/SCDL/8.jpg
+Bjorn Lothbrok (Vikings),VK2,"Masculine, Swedish, 🤺, Persistent, Motivated, Badass",https://openpsychometrics.org/tests/characters/test-resources/pics/VK/2.jpg
+Michael Gray (Peaky Blinders),PKB6,"Young, Gendered, Ambitious, Tailor, Pretentious, English",https://openpsychometrics.org/tests/characters/test-resources/pics/PKB/6.jpg
+Bender Bending Rodriguez (Futurama),FUTR3,"Rebellious, Chaotic, Loud, Mischievous, Wild, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/FUTR/3.jpg
+Thomas Shelby (Peaky Blinders),PKB1,"Main Character, Dominant, Competent, F***-The-Police, Badass, Captain",https://openpsychometrics.org/tests/characters/test-resources/pics/PKB/1.jpg
+Chris Traeger (Parks and Recreation),PR10,"Active, 🧗, Vegan, Diligent, Neat, Extrovert",https://openpsychometrics.org/tests/characters/test-resources/pics/PR/10.jpg
+Rollo Sigurdsson (Vikings),VK6,"Masculine, Jock, 🥾, 💪, Tall, 🏀, 🏋️‍♂️",https://openpsychometrics.org/tests/characters/test-resources/pics/VK/6.jpg
+Niko Polastri (Killing Eve),KE5,"Side Character, Average, Boy/Girl-Next-Door, Beta, Mundane, Straight, Repetitive",https://openpsychometrics.org/tests/characters/test-resources/pics/KE/5.jpg
+Arthur Shelby (Peaky Blinders),PKB2,"Impulsive, Gendered, Traumatized, Masculine, Physical, Ferocious",https://openpsychometrics.org/tests/characters/test-resources/pics/PKB/2.jpg
+Mellie Grant (Scandal),SCDL7,"Political, Opinionated, Straight, Bossy, Rich, On-Time",https://openpsychometrics.org/tests/characters/test-resources/pics/SCDL/7.jpg
+Quinn Perkins (Scandal),SCDL3,"Motivated, Boy/Girl-Next-Door, Emotional, Persistent, 🤺, Driven, Workaholic, Freak",https://openpsychometrics.org/tests/characters/test-resources/pics/SCDL/3.jpg
+Susie Derkins (Calvin and Hobbes),CH5,"Young, Short, On-Time, Valedictorian, Driven, Human",https://openpsychometrics.org/tests/characters/test-resources/pics/CH/5.jpg
+Miss Patty (Gilmore Girls),GILG11,"Gossiping, Social, 🎨, Artistic, Loud, Confident, Extrovert",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/11.jpg
+Lane Kim (Gilmore Girls),GILG3,"Treasure, Rock, Loyal, Punk Rock, Egalitarian, Musical",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/3.jpg
+Rory Gilmore (Gilmore Girls),GILG2,"Bookish, Driven, Nerd, High Iq, Motivated, Beautiful",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/2.jpg
+Alex Kamal (The Expanse),EXP5,"First-Mate, 👨‍🚀, Not Genocidal, Pro, 🤠, Technophile",https://openpsychometrics.org/tests/characters/test-resources/pics/EXP/5.jpg
+Abby Lockhart (ER),ER5,"Not Genocidal, Motivated, Kind, Diligent, Human, Competent",https://openpsychometrics.org/tests/characters/test-resources/pics/ER/5.jpg
+Hermes Conrad (Futurama),FUTR6,"Intellectual, Human, Thick, Penny-Pincher, Nerd, 🧠",https://openpsychometrics.org/tests/characters/test-resources/pics/FUTR/6.jpg
+Lorelai Gilmore (Gilmore Girls),GILG1,"Fast-Talking, Playful, Chatty, Beautiful, Charismatic, Vibrant",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/1.jpg
+Richard Gilmore (Gilmore Girls),GILG7,"Preppy, Valedictorian, 🎩, Self-Disciplined, 🏌, Straight",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/7.jpg
+Dean Forester (Gilmore Girls),GILG12,"Tall, 👨‍🔧, Emotional, Boy/Girl-Next-Door, 🏀, Straight",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/12.jpg
+Abby Whelan (Scandal),SCDL2,"Diligent, Driven, Manicured, Motivated, Workaholic, Overachiever",https://openpsychometrics.org/tests/characters/test-resources/pics/SCDL/2.jpg
+Ubbe Ragnarsson (Vikings),VK9,"Swedish, Yes-Man, Wooden, Self-Disciplined, Kind, 👨‍🔧",https://openpsychometrics.org/tests/characters/test-resources/pics/VK/9.jpg
+Jerry Gergich (Parks and Recreation),PR7,"Cooperative, Obedient, Mild, Loyal, Accommodating, Devoted",https://openpsychometrics.org/tests/characters/test-resources/pics/PR/7.jpg
+Luke Danes (Gilmore Girls),GILG4,"👨‍🔧, Straight, Masculine, Thrifty, Private, Realistic",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/4.jpg
+Cyrus Beene (Scandal),SCDL5,"Mischievous, Two-Faced, Competitive, Tense, Work-First, Driven, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/SCDL/5.jpg
+Harald Finehair (Vikings),VK8,"Swedish, Competitive, Driven, Extreme, Sexist, Masculine",https://openpsychometrics.org/tests/characters/test-resources/pics/VK/8.jpg
+Sookie St. James (Gilmore Girls),GILG8,"Good-Cook, Warm, Soulful, Sweet, 🎨, Nurturing",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/8.jpg
+Jonah Byrde (Ozark),O4,"Technophile, Boy/Girl-Next-Door, High-Tech, 🧠, Perceptive, Intellectual",https://openpsychometrics.org/tests/characters/test-resources/pics/O/4.jpg
+Oswald Cobblepot (Gotham),GTH4,"Fearmongering, Moody, Mischievous, Complicated, Vengeful, Driven",https://openpsychometrics.org/tests/characters/test-resources/pics/GTH/4.jpg
+Ben Wyatt (Parks and Recreation),PR9,"Nerd, Diligent, Valedictorian, Loyal, Intellectual, Feminist",https://openpsychometrics.org/tests/characters/test-resources/pics/PR/9.jpg
+Taylor Doose (Gilmore Girls),GILG15,"Morning Lark, Workaholic, Opinionated, Stubborn, Picky, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/15.jpg
+David Rosen (Scandal),SCDL6,"Side Character, Bookish, On-Time, Valedictorian, Studious, Boy/Girl-Next-Door",https://openpsychometrics.org/tests/characters/test-resources/pics/SCDL/6.jpg
+Amy Wong (Futurama),FUTR5,"Rich, Young, 😜, Trendy, Playful, Extravagant",https://openpsychometrics.org/tests/characters/test-resources/pics/FUTR/5.jpg
+Emily Gilmore (Gilmore Girls),GILG6,"Rich, Preppy, Privileged, 🎩, Opinionated, Self-Disciplined",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/6.jpg
+Michel Gerard (Gilmore Girls),GILG5,"French, Opinionated, 🎩, Sarcastic, Impatient, Pessimistic",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/5.jpg
+Ruth Langmore (Ozark),O5,"Bold, Street-Smart, Persistent, Badass, Frank, Punk Rock",https://openpsychometrics.org/tests/characters/test-resources/pics/O/5.jpg
+Kif Kroker (Futurama),FUTR9,"Passive, 🧠, Sensitive, Emotional, Gatherer, Side Character",https://openpsychometrics.org/tests/characters/test-resources/pics/FUTR/9.jpg
+Marty Byrde (Ozark),O1,"Workaholic, Pointed, Main Character, High Iq, Diligent, Intellectual",https://openpsychometrics.org/tests/characters/test-resources/pics/O/1.jpg
+Jacob Snell (Ozark),O8,"Country-Bumpkin, Rural, 🥾, Masculine, Wooden, Macho",https://openpsychometrics.org/tests/characters/test-resources/pics/O/8.jpg
+Wyatt Langmore (Ozark),O10,"Rural, Country-Bumpkin, Haunted, Poor, Blue-Collar, Oppressed",https://openpsychometrics.org/tests/characters/test-resources/pics/O/10.jpg
+Rowan Pope (Scandal),SCDL10,"Demanding, Competitive, Cocky, Motivated, Bold, Self-Assured",https://openpsychometrics.org/tests/characters/test-resources/pics/SCDL/10.jpg
+Alicia Florrick (The Good Wife),TGW1,"Driven, Stylish, Competent, Manicured, Diligent, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/TGW/1.jpg
+Paris Geller (Gilmore Girls),GILG10,"Competitive, Dominant, Direct, Workaholic, Demanding, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/10.jpg
+James Gordon (Gotham),GTH1,"Persistent, Diligent, Workaholic, Main Character, Masculine, Active",https://openpsychometrics.org/tests/characters/test-resources/pics/GTH/1.jpg
+Selina Meyer (Veep),V1,"Demanding, Bossy, Work-First, Driven, Celebrity, Rich",https://openpsychometrics.org/tests/characters/test-resources/pics/V/1.jpg
+Diane Lockhart (The Good Wife),TGW3,"Eloquent, Cultured, Competent, Valedictorian, Dominant, Stylish",https://openpsychometrics.org/tests/characters/test-resources/pics/TGW/3.jpg
+Malik McGrath  (ER),ER4,"Egalitarian, Night Owl, Not Genocidal, Badass, Soulful, Loyal, Heroic",https://openpsychometrics.org/tests/characters/test-resources/pics/ER/4.jpg
+Zapp Brannigan (Futurama),FUTR8,"Loud, Arrogant, Competitive, Sexist, Ignorant, Selfish",https://openpsychometrics.org/tests/characters/test-resources/pics/FUTR/8.jpg
+Logan Huntzberger (Gilmore Girls),GILG13,"Rich, City-Slicker, Extravagant, Sexual, Privileged, Pretentious",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/13.jpg
+Kalinda Sharma (The Good Wife),TGW4,"Persistent, Badass, Resourceful, Coordinated, Perceptive, Rebellious",https://openpsychometrics.org/tests/characters/test-resources/pics/TGW/4.jpg
+Turanga Leela (Futurama),FUTR2,"Badass, Purple, Feminist, Important, Workaholic, Attractive",https://openpsychometrics.org/tests/characters/test-resources/pics/FUTR/2.jpg
+Professor Hubert J. Farnsworth (Futurama),FUTR4,"Old, Bookish, Intellectual, 🧠, Scientific, Nerd",https://openpsychometrics.org/tests/characters/test-resources/pics/FUTR/4.jpg
+Carol 'Mom' Miller (Futurama),FUTR10,"Entitled, Old, Competitive, Rich, Arrogant, Captain, Bossy",https://openpsychometrics.org/tests/characters/test-resources/pics/FUTR/10.jpg
+Will Gardner (The Good Wife),TGW5,"Manicured, Competitive, Straight, Demanding, Go-Getter, Privileged",https://openpsychometrics.org/tests/characters/test-resources/pics/TGW/5.jpg
+Cary Agos (The Good Wife),TGW2,"Valedictorian, Work-First, Cocky, City-Slicker, Attractive, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/TGW/2.jpg
+Dr. John A. Zoidberg (Futurama),FUTR7,"Stinky, Weird, Clumsy, Unlucky, Freak, Unorthodox",https://openpsychometrics.org/tests/characters/test-resources/pics/FUTR/7.jpg
+Donna Meagle (Parks and Recreation),PR8,"Lavish, Bold, 😎, Queen, Self-Assured, Badass",https://openpsychometrics.org/tests/characters/test-resources/pics/PR/8.jpg
+Charlie Strong (Peaky Blinders),PKB5,"👨‍🔧, Vintage, Rugged, Old, Gendered, Works Hard",https://openpsychometrics.org/tests/characters/test-resources/pics/PKB/5.jpg
+Roy Petty (Ozark),O7,"Stubborn, Psychopath, Punchable, Suspicious, Angry, Miserable",https://openpsychometrics.org/tests/characters/test-resources/pics/O/7.jpg
+Amy Brookheimer (Veep),V2,"Workaholic, Work-First, Driven, Tense, Skeptical, Diligent",https://openpsychometrics.org/tests/characters/test-resources/pics/V/2.jpg
+Judith of Northumbria (Vikings),VK10,"🎨, 🧠, Side Character, Feminine, French, Dramatic",https://openpsychometrics.org/tests/characters/test-resources/pics/VK/10.jpg
+Darlene Snell (Ozark),O9,"Stubborn, Ferocious, Feisty, Crazy, Wild, Hard",https://openpsychometrics.org/tests/characters/test-resources/pics/O/9.jpg
+Christopher Moltisanti (The Sopranos),SOP4,"Italian, Urban, Drop Out, Sexist, Cocky, Mischievous",https://openpsychometrics.org/tests/characters/test-resources/pics/SOP/4.jpg
+Selina Kyle (Gotham),GTH5,"Feminist, Cat Person, Street-Smart, Punk Rock, Adventurous, Badass, Rebellious, Night Owl",https://openpsychometrics.org/tests/characters/test-resources/pics/GTH/5.jpg
+Philip J. Fry (Futurama),FUTR1,"Messy, Impulsive, Disorganized, Clumsy, Juvenile, Orange",https://openpsychometrics.org/tests/characters/test-resources/pics/FUTR/1.jpg
+Kirk Gleason (Gilmore Girls),GILG9,"Awkward, Weird, Nerd, First-Mate, Quirky, Twitchy",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/9.jpg
+Dr. Jennifer Melfi (The Sopranos),SOP2,"Civilized, Studious, Motivated, Human, Egalitarian, On-Time",https://openpsychometrics.org/tests/characters/test-resources/pics/SOP/2.jpg
+Wendy Byrde (Ozark),O2,"Driven, Diligent, Businesslike, Motivated, Persistent, Go-Getter",https://openpsychometrics.org/tests/characters/test-resources/pics/O/2.jpg
+Alfred Pennyworth (Gotham),GTH7,"Coordinated, Treasure, Heroic, Knowledgeable, Neat, Badass",https://openpsychometrics.org/tests/characters/test-resources/pics/GTH/7.jpg
+Harvey Bullock (Gotham),GTH2,"Masculine, Bold, Dog Person, Impatient, Frank, Skeptical",https://openpsychometrics.org/tests/characters/test-resources/pics/GTH/2.jpg
+Jackson Belleville (Gilmore Girls),GILG14,"🥾, Love-Focused, 🤠, Wooden, Kind, Not Genocidal",https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/14.jpg
+Tony Soprano (The Sopranos),SOP1,"Italian, Dominant, Bossy, Masculine, Lustful, F***-The-Police",https://openpsychometrics.org/tests/characters/test-resources/pics/SOP/1.jpg
+Silvio Dante (The Sopranos),SOP6,"Italian, Conservative, Gendered, Loyal, Street-Smart, Patriotic",https://openpsychometrics.org/tests/characters/test-resources/pics/SOP/6.jpg
+Grace Florrick (The Good Wife),TGW6,"Not Genocidal, Young, Civilized, Gendered, Privileged, Emotional",https://openpsychometrics.org/tests/characters/test-resources/pics/TGW/6.jpg
+Rachel Garrison (Ozark),O6,"Boy/Girl-Next-Door, Side Character, Blue-Collar, Rustic, Child Free, Traumatized",https://openpsychometrics.org/tests/characters/test-resources/pics/O/6.jpg
+Carmela Soprano (The Sopranos),SOP3,"Family-First, Manicured, Rich, Important, Neat, Italian",https://openpsychometrics.org/tests/characters/test-resources/pics/SOP/3.jpg
+Paulie 'Walnuts' Gualtieri (The Sopranos),SOP7,"Italian, Street-Smart, Vintage, Opinionated, City-Slicker, Loud",https://openpsychometrics.org/tests/characters/test-resources/pics/SOP/7.jpg
+Kala Dandekar (Sense8),S83,"Kind, Soulful, Beautiful, Valedictorian, High Iq, Empath, Loyal",https://openpsychometrics.org/tests/characters/test-resources/pics/S8/3.jpg
+A.J. Soprano (The Sopranos),SOP8,"Italian, Side Character, Goof-Off, Underachiever, Drop Out, Entitled",https://openpsychometrics.org/tests/characters/test-resources/pics/SOP/8.jpg
+Edward Nygma (Gotham),GTH6,"🧠, High Iq, Bookish, Nerd, Vengeful, Perceptive",https://openpsychometrics.org/tests/characters/test-resources/pics/GTH/6.jpg
+Dan Egan (Veep),V4,"City-Slicker, Sarcastic, Selfish, Arrogant, Work-First, Competitive, Cocky",https://openpsychometrics.org/tests/characters/test-resources/pics/V/4.jpg
+Jonah Ryan (Veep),V5,"Tall, Punchable, Arrogant, Entitled, Weird, Cringeworthy",https://openpsychometrics.org/tests/characters/test-resources/pics/V/5.jpg
+Cheryl Tunt (Archer),ARCH4,"Ludicrous, Zany, Sexual, Emotional, Self-Destructive, Spontaneous",https://openpsychometrics.org/tests/characters/test-resources/pics/ARCH/4.jpg
+Charlotte Byrde (Ozark),O3,"Dramatic, Beautiful, Feminist, Demanding, Entitled, Modern",https://openpsychometrics.org/tests/characters/test-resources/pics/O/3.jpg
+Sun Bak (Sense8),S81,"Self-Disciplined, Badass, Competent, Coordinated, Feminist, 🤺",https://openpsychometrics.org/tests/characters/test-resources/pics/S8/1.jpg
+Lito Rodriguez (Sense8),S86,"Emotional, Celebrity, Queer, Romantic, Emotional, Sexual, 🥵",https://openpsychometrics.org/tests/characters/test-resources/pics/S8/6.jpg
+Malory Archer (Archer),ARCH2,"Privileged, Alpha, Bossy, Demanding, Indulgent, Vengeful",https://openpsychometrics.org/tests/characters/test-resources/pics/ARCH/2.jpg
+Junior Soprano (The Sopranos),SOP5,"Old, Italian, Vintage, Historical, Opinionated, Low-Tech",https://openpsychometrics.org/tests/characters/test-resources/pics/SOP/5.jpg
+Barbara Kean (Gotham),GTH8,"Feminist, Bold, Demanding, Scandalous, Spicy, Bossy",https://openpsychometrics.org/tests/characters/test-resources/pics/GTH/8.jpg
+Leslie Thompkins (Gotham),GTH9,"👨‍⚕️, High Iq, Scientific, Persistent, Love-Focused, Valedictorian",https://openpsychometrics.org/tests/characters/test-resources/pics/GTH/9.jpg
+Mike McLintock (Veep),V6,"Side Character, Desperate, First-Mate, Cheesy, 🛌, Not Genocidal",https://openpsychometrics.org/tests/characters/test-resources/pics/V/6.jpg
+Chuny Marquez (ER),ER3,"Feminine, One-Faced, Feminist, Social, Resourceful, Pro, 🌟",https://openpsychometrics.org/tests/characters/test-resources/pics/ER/3.jpg
+Lana Kane (Archer),ARCH6,"Attractive, Beautiful, Go-Getter, Driven, 🤺, Assertive",https://openpsychometrics.org/tests/characters/test-resources/pics/ARCH/6.jpg
+Sterling Archer (Archer),ARCH1,"Bold, Sexual, Extravagant, Entitled, City-Slicker, Arrogant",https://openpsychometrics.org/tests/characters/test-resources/pics/ARCH/1.jpg
+Janice Soprano (The Sopranos),SOP10,"Moody, Italian, Loud, Chatty, Demanding, Impulsive",https://openpsychometrics.org/tests/characters/test-resources/pics/SOP/10.jpg
+Bruce Wayne (Gotham),GTH3,"Rich, Diligent, 🦇, Motivated, Persistent, Dramatic",https://openpsychometrics.org/tests/characters/test-resources/pics/GTH/3.jpg
+Lucius Fox (Gotham),GTH10,"Diligent, Egalitarian, Self-Disciplined, Rational, Intellectual, Scientific",https://openpsychometrics.org/tests/characters/test-resources/pics/GTH/10.jpg
+Gary Walsh (Veep),V3,"Submissive, Obedient, Codependent, Beta, Nerd, On-Time, White Knight",https://openpsychometrics.org/tests/characters/test-resources/pics/V/3.jpg
+Neal Caffrey (White Collar),WC1,"Charismatic, Beautiful, City-Slicker, Attractive, Charming, Important",https://openpsychometrics.org/tests/characters/test-resources/pics/WC/1.jpg
+Pamela Poovey (Archer),ARCH5,"Kinky, Sexual, Indulgent, Wild, Gossiping, Lustful",https://openpsychometrics.org/tests/characters/test-resources/pics/ARCH/5.jpg
+Cyril Figgis (Archer),ARCH3,"Nerd, Bookish, 🐿, Intellectual, Tight, Sensitive, Tense, Meek, Beta",https://openpsychometrics.org/tests/characters/test-resources/pics/ARCH/3.jpg
+Meadow Soprano (The Sopranos),SOP9,"Italian, Urban, Beautiful, Feminine, Straight, Manicured",https://openpsychometrics.org/tests/characters/test-resources/pics/SOP/9.jpg
+Roman Roy (Succession),SUC2,"Rich, Perverted, Exhibitionist, Privileged, City-Slicker, Indulgent",https://openpsychometrics.org/tests/characters/test-resources/pics/SUC/2.jpg
+Waverly Earp (Wynonna Earp),WE3,"Warm, Attractive, Feminist, Beautiful, 🌟, Soulful, Generous",https://openpsychometrics.org/tests/characters/test-resources/pics/WE/3.jpg
+Nomi Marks (Sense8),S82,"Queer, Feminist, High-Tech, Love-Focused, Important, Egalitarian",https://openpsychometrics.org/tests/characters/test-resources/pics/S8/2.jpg
+Wolfgang Bogdanow (Sense8),S85,"Sexual, Street-Smart, F***-The-Police, Freelance, Masculine, Wild, Intense",https://openpsychometrics.org/tests/characters/test-resources/pics/S8/5.jpg
+Mozzie (White Collar),WC3,"Nerd, Intellectual, 🧠, Paranoid, F***-The-Police, Opinionated",https://openpsychometrics.org/tests/characters/test-resources/pics/WC/3.jpg
+Riley Blue (Sense8),S84,"Swedish, Open To New Experinces, 🎨, Feminist, Egalitarian, Freelance, Rebellious",https://openpsychometrics.org/tests/characters/test-resources/pics/S8/4.jpg
+Will Gorski (Sense8),S87,"Driven, Loyal, Dog Person, Kind, Heroic, 🏀",https://openpsychometrics.org/tests/characters/test-resources/pics/S8/7.jpg
+Nicole Haught (Wynonna Earp),WE4,"Sheriff, Beautiful, Attractive, Queer, Devoted, Persistent",https://openpsychometrics.org/tests/characters/test-resources/pics/WE/4.jpg
+Logan Roy (Succession),SUC1,"Old, Bossy, Master, Fearmongering, Intense, Demanding",https://openpsychometrics.org/tests/characters/test-resources/pics/SUC/1.jpg
+Doc Holliday (Wynonna Earp),WE2,"🤠, Vintage, Flirtatious, 🥾, Haunted, Sexual",https://openpsychometrics.org/tests/characters/test-resources/pics/WE/2.jpg
+Tom Wambsgans (Succession),SUC8,"Privileged, Corporate, First-Mate, Codependent, Basic, Manicured",https://openpsychometrics.org/tests/characters/test-resources/pics/SUC/8.jpg
+Amanita Caplan (Sense8),S89,"Feminist, Queer, Open-Minded, Playful, Adventurous, Loyal, Bold",https://openpsychometrics.org/tests/characters/test-resources/pics/S8/9.jpg
+Hernando Fuentes (Sense8),S810,"Romantic, Loyal, Attractive, Queer, Nerd, 🎨",https://openpsychometrics.org/tests/characters/test-resources/pics/S8/10.jpg
+Wynonna Earp (Wynonna Earp),WE1,"Stubborn, Liberal, Main Character, Bold, Sexual, Beautiful, Wild",https://openpsychometrics.org/tests/characters/test-resources/pics/WE/1.jpg
+Frank Vernon (Succession),SUC7,"Practical, Old, Centrist, Vintage, Monotone, Mild",https://openpsychometrics.org/tests/characters/test-resources/pics/SUC/7.jpg
+Kendall Roy (Succession),SUC4,"Haunted, City-Slicker, Jaded, Self-Destructive, Tense, Traumatized",https://openpsychometrics.org/tests/characters/test-resources/pics/SUC/4.jpg
+Marcia Roy (Succession),SUC5,"Secretive, Coordinated, Persistent, Deliberate, Businesslike, City-Slicker",https://openpsychometrics.org/tests/characters/test-resources/pics/SUC/5.jpg
+Greg Hirsch (Succession),SUC6,"Tall, Young, Twitchy, Anxious, Awkward, Desperate",https://openpsychometrics.org/tests/characters/test-resources/pics/SUC/6.jpg
+Peter Burke (White Collar),WC2,"Diligent, Clean, Devoted, Self-Disciplined, Persistent, Motivated",https://openpsychometrics.org/tests/characters/test-resources/pics/WC/2.jpg
+Shiv Roy (Succession),SUC3,"Rich, Go-Getter, Complicated, City-Slicker, Presidential, High Iq",https://openpsychometrics.org/tests/characters/test-resources/pics/SUC/3.jpg
+Connor Roy (Succession),SUC9,"Privileged, Dorky, Weakass, Cringeworthy, Incompetent, Overspender",https://openpsychometrics.org/tests/characters/test-resources/pics/SUC/9.jpg
+Elizabeth Burke (White Collar),WC4,"Not Genocidal, Reasonable, Persistent, Kind, Loyal, Competent",https://openpsychometrics.org/tests/characters/test-resources/pics/WC/4.jpg
+Clinton Jones (White Collar),WC5,"On-Time, Clean, Human, Factual, Manicured, Not Genocidal",https://openpsychometrics.org/tests/characters/test-resources/pics/WC/5.jpg
+Angelica Turing (Sense8),S88,"Metaphorical, Complicated, Mysterious, Unlucky, Bookish, Rebellious",https://openpsychometrics.org/tests/characters/test-resources/pics/S8/8.jpg
+Lawrence Yee (Succession),SUC10,"Technophile, Intellectual, Feisty, Quarrelsome, 🧠, City-Slicker",https://openpsychometrics.org/tests/characters/test-resources/pics/SUC/10.jpg
+Jeremy Chetri (Wynonna Earp),WE5,"Nerd, 👩‍🔬, 🧠, Angelic, Bookish, Mathematical",https://openpsychometrics.org/tests/characters/test-resources/pics/WE/5.jpg
+Diana Barrigan (White Collar),WC6,"Diligent, Motivated, Persistent, Beautiful, Healthy, Resourceful",https://openpsychometrics.org/tests/characters/test-resources/pics/WC/6.jpg
