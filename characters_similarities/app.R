@@ -6,7 +6,6 @@
 #
 #    http://shiny.rstudio.com/
 #
-
 library(shiny)
 library(dplyr)
 library(tidyr)
@@ -26,15 +25,15 @@ ui <- tagList(fluidPage(
     # Sidebar layout with a input and output definitions ----
     fluidRow(
 
-        column(4,
+        column(3,
 
             # Input: Selector for choosing dataset ----
             selectInput(inputId = "char_name",
                         label = "Choose a Character:",
                         choices = chars_desc$name,
-                        selected = "Harry Potter (Harry Potter)"),
-            br(),
-
+                        selected = "Harry Potter (Harry Potter)")
+        ),
+        column(3,
             # Input: Numeric entry for number of obs to view ----
             numericInput(inputId = "nrows",
                          label = "Number of outputs:",
@@ -43,7 +42,7 @@ ui <- tagList(fluidPage(
                          max = 10),
         ),
         column(
-            8,
+            6,
             gt_output(outputId = "char_table")
         )
     ),
@@ -81,7 +80,7 @@ server <- function(input, output) {
         select(id2, correlation) |>
         inner_join(chars_desc, by = c(id2 = "id")) |>
         separate(name, c("Name","Universe"), sep = " \\(") |>
-        mutate(Universe = str_remove(Universe, fixed(")")))
+        mutate(Universe = str_remove(Universe, "\\)"))
     })
 
     output$char_table <- render_gt(
@@ -89,7 +88,7 @@ server <- function(input, output) {
             chars_desc |>
                 filter(name == input$char_name) |>
                 separate(name, c("Name","Universe"), sep = " \\(") |>
-                mutate(Universe = str_remove(Universe, fixed(")"))) |>
+                mutate(Universe = str_remove(Universe, "\\)")) |>
                 select(Name,
                        Universe,
                        `Main Characteristics` = description,
