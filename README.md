@@ -8,4 +8,4 @@ The dataset is from the [Open-Source Psychometrics Project](https://openpsychome
 
 You can find the app in [this link](https://matias-taron.shinyapps.io/characters_similarities/).
 
-![characters_similarities]("characters_similarities/screenshot.png")
+![characters_similarities](https://github.com/matiast1905/shiny-apps/blob/main/characters_similarities/screenshot.png)
