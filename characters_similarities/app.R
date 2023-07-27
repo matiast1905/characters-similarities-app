@@ -79,10 +79,10 @@ server <- function(input, output) {
         select(Name,
           Universe,
           `Main Characteristics` = description,
-          Picture = image
+          #Picture = image
         ) |>
         gt() %>%
-        gt_img_rows(columns = Picture, height = 100) |>
+        #gt_img_rows(columns = Picture, height = 100) |>
         cols_width(everything() ~ px(200)) |>
         cols_align("center") |>
         tab_header("Selected Character")
@@ -95,7 +95,7 @@ server <- function(input, output) {
       select(Name,
         Universe,
         Correlation = correlation,
-        Picture = image
+        #Picture = image
       ) |>
       gt() %>%
       tab_style(
@@ -109,7 +109,7 @@ server <- function(input, output) {
           columns = Correlation
         )
       ) |>
-      gt_img_rows(columns = Picture, height = 100) |>
+     # gt_img_rows(columns = Picture, height = 100) |>
       fmt_number(Correlation, decimals = 3) |>
       cols_width(everything() ~ px(200)) |>
       cols_align("center") |>
@@ -122,7 +122,7 @@ server <- function(input, output) {
       select(Name,
         Universe,
         Correlation = correlation,
-        Picture = image
+       # Picture = image
       ) |>
       gt() %>%
       tab_style(
@@ -136,7 +136,7 @@ server <- function(input, output) {
           columns = Correlation
         )
       ) |>
-      gt_img_rows(columns = Picture, height = 100) |>
+      #gt_img_rows(columns = Picture, height = 100) |>
       fmt_number(Correlation, decimals = 3) |>
       cols_width(everything() ~ px(200)) |>
       cols_align("center") |>
